@@ -28,7 +28,7 @@ Preliminary repository for the Almes Core vocabulary
 | Term name | theme |
 | ------------- | ------------- |
 | Type of Term  | Property  |
-| URI  | xxxx  |
+| URI  | http://purl.org/  |
 
 ## product
 | Term name | product |
@@ -40,7 +40,7 @@ Preliminary repository for the Almes Core vocabulary
 | Term name | verbatimName |
 | ------------- | ------------- |
 | Type of Term  | Property  |
-| URI  | XXX  |
+| URI  | http://purl.org/almescore/verbatimName  |
 
 ## editor
 | Term name | editor |
@@ -124,6 +124,6 @@ Preliminary repository for the Almes Core vocabulary
 | Term name | statisticalMethod |
 | ------------- | ------------- |
 | Type of Term  | Property  |
-| URI  | XXXX |
+| URI  | http://purl.org/almescore/statisticalMethod |
 
 
