@@ -1,4 +1,4 @@
-<h1>Almes Core Reference Guide<h1>
+# Almes Core Reference Guide
 Preliminar repository for the Almes Core vocabulary
 | Property | Value |
 | ------------- | ------------- |
@@ -15,7 +15,7 @@ Preliminar repository for the Almes Core vocabulary
 
 # Index of Terms
 
-##productGroup
+## productGroup
 
 | Term name | productGroup |
 | ------------- | ------------- |
