@@ -118,11 +118,11 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 | Type of Term  | Property  |
 | URI  | https://schema.org/endDate |
 
-## endDate
-| Term name | endDate |
+## modified
+| Term name | modified |
 | ------------- | ------------- |
 | Type of Term  | Property  |
-| URI  | https://schema.org/endDate |
+| URI  | http://purl.org/dc/terms/modified |
 
 ## license
 | Term name | license |
