@@ -15,7 +15,9 @@ Preliminar repository for the Almes Core vocabulary
 
 # Index of Terms
 
-| Term name | #productGroup |
+##productGroup
+
+| Term name | productGroup |
 | ------------- | ------------- |
 | Type of Term  | Property  |
 | URI  | https://schema.org/ProductGroup  |
