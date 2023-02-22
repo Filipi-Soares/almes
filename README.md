@@ -1,6 +1,7 @@
 # almes
 Preliminar repository for the Almes Core vocabulary
-| First Header  | Second Header |
+|  |  |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Title  | Agriculture and Livestock Metadata Elements Set (Almes Core)  |
+| Creator  | C4AI AgriBio Data Managment Team  |
+| Identifier  | C4AI AgriBio Data Managment Team  |
