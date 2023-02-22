@@ -28,7 +28,7 @@ Preliminary repository for the Almes Core vocabulary
 | Term name | theme |
 | ------------- | ------------- |
 | Type of Term  | Property  |
-| URI  | http://purl.org/  |
+| URI  | http://www.w3.org/ns/dcat#theme  |
 
 ## product
 | Term name | product |
