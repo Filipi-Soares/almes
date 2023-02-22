@@ -64,7 +64,7 @@ Preliminary repository for the Almes Core vocabulary
 | Term name | dataType |
 | ------------- | ------------- |
 | Type of Term  | Property  |
-| URI  | XXXX |
+| URI  | https://schema.org/DataType |
 
 ## frequency
 | Term name | frequency |
