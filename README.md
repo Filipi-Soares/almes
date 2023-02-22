@@ -120,7 +120,7 @@ Preliminary repository for the Almes Core vocabulary
 | Type of Term  | Property  |
 | URI  | http://purl.org/dc/terms/license |
 
-## license
+## statisticalMethod
 | Term name | statisticalMethod |
 | ------------- | ------------- |
 | Type of Term  | Property  |
