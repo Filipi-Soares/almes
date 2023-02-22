@@ -13,6 +13,16 @@ Preliminary repository for the Almes Core vocabulary
 | Namespace | http://purl.org/almescore |
 | Namespace abbreviation | alm: |
 
+# Normative namespaces
+Namespaces and prefixes used in normative parts of this recommendation are shown in the following table.
+| Prefix | Namespace |
+| ------------- | ------------- |
+| alm | http://purl.org/almescore |
+| dc  | http://purl.org/dc/elements/1.1/  |
+| scm  | https://schema.org/docs/schemas.html  |
+| dcat | http://www.w3.org/ns/dcat# |
+| dct | http://purl.org/dc/terms/ |
+
 # Index of Terms
 
 ## productGroup
