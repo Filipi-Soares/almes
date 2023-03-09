@@ -4,8 +4,7 @@ Preliminary repository for the Almes Core vocabulary
 | ------------- | ------------- |
 | Title  | Agriculture and Livestock Metadata Elements Set (Almes Core)  |
 | Creator  | C4AI AgriBio Data Managment Team  |
-| Identifier  | uri here  |
-| Date Issued | 2022-03-25 |
+| Identifier  | http://purl.org/almescore |
 | Latest Version | http://purl.org/almescore |
 | Version History | uri here |
 | Document Status | draft |
