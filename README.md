@@ -127,22 +127,26 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 | Comment | Recommended practice is to use a value from a controlled vocabulary such as <a href="https://www.geonames.org/">Geonames.org</a>. 
 
 ## startDate
-| Term name | startDate |
+| Term name | sdo:startDate |
 | ------------- | ------------- |
 | Type of Term  | Property  |
 | URI  | https://schema.org/startDate |
+| Definition | The start date and time of the item (in ISO 8601 date format). |
 
 ## endDate
-| Term name | endDate |
+| Term name | sdo:endDate |
 | ------------- | ------------- |
 | Type of Term  | Property  |
 | URI  | https://schema.org/endDate |
+| Definition | The end date and time of the item (in ISO 8601 date format). |
 
 ## modified
-| Term name | modified |
+| Term name | dct:modified |
 | ------------- | ------------- |
 | Type of Term  | Property  |
 | URI  | http://purl.org/dc/terms/modified |
+| Definition | Date on which the resource was changed. |
+| Comment | Recommended practice is to describe the date, date/time, or period of time as recommended for the property Date, of which this is a subproperty. |
 
 ## license
 | Term name | license |
