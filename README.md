@@ -65,7 +65,15 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 | ------------- | ------------- |
 | Type of Term  | Property  |
 | URI  | http://purl.org/dc/elements/1.1/title  |
-| Definition | A name given to the resource.                                                    |
+| Definition | A name given to the resource.   |
+
+## language
+| Term name | dct:language |
+| ------------- | ------------- |
+| Type of Term  | Property  |
+| URI  | http://purl.org/dc/terms/language  |
+| Definition | A language of the resource. |
+| Comment | Recommended practice is to use either a non-literal value representing a language from a controlled vocabulary such as ISO 639-2 or ISO 639-3, or a literal value consisting of an IETF Best Current Practice 47 <a href="https://www.rfc-editor.org/info/bcp47">(IETF-BCP47)</a> language tag. |
 
 ## publisher
 | Term name | dc:publisher |
