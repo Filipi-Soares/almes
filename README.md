@@ -6,7 +6,7 @@ Preliminary repository for the Almes Core vocabulary
 | Creator  | C4AI AgriBio Data Managment Team  |
 | Identifier  | http://purl.org/almescore |
 | Latest Version | http://purl.org/almescore |
-| Version History | uri here](https://github.com/Filipi-Soares/almes/blob/main/README.md |
+| Version History | https://github.com/Filipi-Soares/almes/blob/main/README.md |
 | Document Status | draft |
 | Description | Este documento é a versão mais atualizada da especificação de todos os termos de metadados mantidos pelo C4AI AgriBio Data Managment Team, incluindo classes, propriedades, esquemas de codificação de vocabulário, e esquemas de codificação de sintaxe |
 | Namespace | http://purl.org/almescore |
