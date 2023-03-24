@@ -35,6 +35,10 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#name">name (property)</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#homepage">homepage (property)</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#e-mail">e-mail (property)</a>. 
 
 
+<a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#dataset">Dataset (Class)</a>
+
+
+<a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#productGroup">productGroup (property)</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#product">product (property)</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#theme">theme (property)</a>. <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#accessURL">accessURL (property)</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#accrualPeriodicity">accrualPeriodicity (property)</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#location">location (property)</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#startDate">startDate (property)</a>. <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#accessURL">accessURL (property)</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#endDate">endDate (property)</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#statisticalMethod">statisticalMethod (property)</a>; 
 
 
 ## Resource
