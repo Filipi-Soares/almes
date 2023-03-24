@@ -38,7 +38,7 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 | Term name | theme |
 | ------------- | ------------- |
 | Type of Term  | Property  |
-| URI  |  xx |
+| URI  |  http://purl.org/almescore/theme |
 | Definition | Indicates the main theme investigated in the economic statistical operation. |
 | Comment | The best recommended practice is to use a controlled vocabulary. Example: agriculture, livestock, forest production, fishing, aquaculture. |
 | Exact Match | https://metadados.ibge.gov.br/consulta/estatisticos/temas |
