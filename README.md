@@ -32,7 +32,7 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 | URI  | http://purl.org/almescore/productGroup  |
 | Definition  | A ProductGroup represents a group of products resulting from agriculture or livestock activities that vary only in certain well-described ways, being aggregated according to common biological traits.  |
 | Comment | The best recommended practice is to use a controlled vocabulary. Example: grain, vegetables, meat. |
-| Broader Match | <a href="https://schema.org/ProductGroup">scm:productGroup</a>. |
+| Broader Match | <a href="https://schema.org/ProductGroup">scm:productGroup</a> |
 
 ## theme
 | Term name | theme |
@@ -41,8 +41,8 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 | URI  |  http://purl.org/almescore/theme |
 | Definition | Indicates the main theme investigated in the economic statistical operation. |
 | Comment | The best recommended practice is to use a controlled vocabulary. Example: agriculture, livestock, forest production, fishing, aquaculture. |
-| Exact Match | https://metadados.ibge.gov.br/consulta/estatisticos/temas |
-| Broader Match | http://www.w3.org/ns/dcat#theme
+| References | https://metadados.ibge.gov.br/consulta/estatisticos/temas |
+| Broader Match | <a href="http://www.w3.org/ns/dcat#theme">dcat:theme</a> |
 
 ## product
 | Term name | product |
