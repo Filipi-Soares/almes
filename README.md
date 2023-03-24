@@ -58,6 +58,14 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 | ------------- | ------------- |
 | Type of Term  | Property  |
 | URI  | http://purl.org/almescore/verbatimName  |
+| Comment | Deprecated. Replaced by dc:title |
+
+## title
+| Term name | dc:title |
+| ------------- | ------------- |
+| Type of Term  | Property  |
+| URI  | http://purl.org/dc/elements/1.1/title  |
+| Definition | A name given to the resource.                                                    |
 
 ## editor
 | Term name | editor |
