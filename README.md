@@ -29,9 +29,9 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 | Term name | productGroup |
 | ------------- | ------------- |
 | Type of Term  | Property  |
-| URI  | https://schema.org/ProductGroup  |
+| URI  | xx  |
 | Definition  | A ProductGroup represents a group of Products that vary only in certain well-described ways, being aggregated according to common biological traits.  |
-| Comment | A melhor prática recomendada é utilizar um vocabulário controlado. Exemplo: grão, hortifruti, carne. |
+| Comment | The best recommended practice is to use a controlled vocabulary. Example: grain, vegetables, meat. |
 
 ## theme
 | Term name | theme |
