@@ -24,6 +24,10 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 | foaf| http://xmlns.com/foaf/0.1/ |
 
 # Index of Terms
+<a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#resource">Resource (Class)</a>
+<a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#title">title (property)</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#description">description (property)</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#publisher">publisher (property)</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#creator">creator (property)</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#modified">modified (property)</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#modified">version (property)</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#language">language (property)</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#license">license (property)</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#rights">rights (property)</a>.
+
+
 
 
 ## Resource
