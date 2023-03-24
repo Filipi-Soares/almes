@@ -29,9 +29,10 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 | Term name | productGroup |
 | ------------- | ------------- |
 | Type of Term  | Property  |
-| URI  | xx  |
-| Definition  | A ProductGroup represents a group of Products that vary only in certain well-described ways, being aggregated according to common biological traits.  |
+| URI  | http://purl.org/almescore/productGroup  |
+| Definition  | A ProductGroup represents a group of products resulting from agriculture or livestock activities that vary only in certain well-described ways, being aggregated according to common biological traits.  |
 | Comment | The best recommended practice is to use a controlled vocabulary. Example: grain, vegetables, meat. |
+| Broader Match | https://schema.org/ProductGroup |
 
 ## theme
 | Term name | theme |
