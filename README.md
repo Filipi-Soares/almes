@@ -21,6 +21,7 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 | sdo  | https://schema.org/docs/schemas.html  |
 | dcat | http://www.w3.org/ns/dcat# |
 | dct | http://purl.org/dc/terms/ |
+| foaf| http://xmlns.com/foaf/0.1/ |
 
 # Index of Terms
 
@@ -76,8 +77,39 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 | Definition | A related resource that is a version, edition, or adaptation of the described resource. |
 | Comment | Changes in version imply substantive changes in content rather than differences in format. This property is intended to be used with non-literal values. This property is an inverse property of Is Version Of. |
 
+### language
+| Term name | dct:language |
+| ------------- | ------------- |
+| Type of Term  | Property  |
+| URI  | http://purl.org/dc/terms/language  |
+| Definition | A language of the resource. |
+| Comment | Recommended practice is to use either a non-literal value representing a language from a controlled vocabulary such as ISO 639-2 or ISO 639-3, or a literal value consisting of an IETF Best Current Practice 47 <a href="https://www.rfc-editor.org/info/bcp47">(IETF-BCP47)</a> language tag. |
+
+### license
+| Term name | dct:license |
+| ------------- | ------------- |
+| Type of Term  | Property  |
+| URI  | http://purl.org/dc/terms/license |
+| Definition | A legal document giving official permission to do something with the resource. |
+| Comment | Recommended practice is to identify the license document with a URI. If this is not possible or feasible, a literal value that identifies the license may be provided. |
+
+### rights
+| Term name | dct:rights |
+| ------------- | ------------- |
+| Type of Term  | Property  |
+| URI  | http://purl.org/dc/elements/1.1/rights |
+| Definition | Information about rights held in and over the resource. |
+| Comment | Typically, rights information includes a statement about various property rights associated with the resource, including intellectual property rights. |
+
+## Agent
+| Term name | foaf:Agent |
+| ------------- | ------------- |
+| Type of Term  | Class  |
+| URI  | http://xmlns.com/foaf/0.1/#term_Agent |
+| Definition  | An agent (eg. person, group, software or physical artifact).  |
+
 ##Dataset
-##Agent
+
 
 
 ### productGroup
@@ -115,14 +147,6 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 | Type of Term  | Property  |
 | URI  | http://purl.org/almescore/verbatimName  |
 | Comment | Deprecated. Replaced by <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#title">dc:title</a>. |
-
-### language
-| Term name | dct:language |
-| ------------- | ------------- |
-| Type of Term  | Property  |
-| URI  | http://purl.org/dc/terms/language  |
-| Definition | A language of the resource. |
-| Comment | Recommended practice is to use either a non-literal value representing a language from a controlled vocabulary such as ISO 639-2 or ISO 639-3, or a literal value consisting of an IETF Best Current Practice 47 <a href="https://www.rfc-editor.org/info/bcp47">(IETF-BCP47)</a> language tag. |
 
 ### references
 | Term name | dct:references |
