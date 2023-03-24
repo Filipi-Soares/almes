@@ -101,6 +101,7 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 | ------------- | ------------- |
 | Type of Term  | Property  |
 | URI  | https://schema.org/DataType |
+| Comment | Deprecated in Almes Core schema (still in use in Schema.org). |
 
 ## frequency
 | Term name | frequency |
