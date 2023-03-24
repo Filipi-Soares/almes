@@ -24,7 +24,13 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 
 # Index of Terms
 
-## productGroup
+
+##Resource
+##Dataset
+##Agent
+
+
+### productGroup
 
 | Term name | alm:productGroup |
 | ------------- | ------------- |
@@ -34,7 +40,7 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 | Comment | The best recommended practice is to use a controlled vocabulary. Example: grain, vegetables, meat. |
 | Broader Match | <a href="https://schema.org/ProductGroup">sdo:productGroup</a> |
 
-## theme
+### theme
 | Term name | alm:theme |
 | ------------- | ------------- |
 | Type of Term  | Property  |
@@ -44,7 +50,7 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 | References | https://metadados.ibge.gov.br/consulta/estatisticos/temas |
 | Broader Match | <a href="http://www.w3.org/ns/dcat#theme">dcat:theme</a> |
 
-## product
+### product
 | Term name | alm:product |
 | ------------- | ------------- |
 | Type of Term  | Property  |
@@ -53,21 +59,21 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 | Comment | The best recommended practice is to use a controlled vocabulary. Example: soy, corn, fed cattle. |
 | Broader Match | <a href="https://schema.org/Product">sdo:product</a> |
 
-## verbatimName
+### verbatimName
 | Term name | alm:verbatimName |
 | ------------- | ------------- |
 | Type of Term  | Property  |
 | URI  | http://purl.org/almescore/verbatimName  |
 | Comment | Deprecated. Replaced by <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#title">dc:title</a>. |
 
-## title
+### title
 | Term name | dc:title |
 | ------------- | ------------- |
 | Type of Term  | Property  |
 | URI  | http://purl.org/dc/elements/1.1/title  |
 | Definition | A name given to the resource.   |
 
-## language
+### language
 | Term name | dct:language |
 | ------------- | ------------- |
 | Type of Term  | Property  |
@@ -75,7 +81,7 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 | Definition | A language of the resource. |
 | Comment | Recommended practice is to use either a non-literal value representing a language from a controlled vocabulary such as ISO 639-2 or ISO 639-3, or a literal value consisting of an IETF Best Current Practice 47 <a href="https://www.rfc-editor.org/info/bcp47">(IETF-BCP47)</a> language tag. |
 
-## publisher
+### publisher
 | Term name | dc:publisher |
 | ------------- | ------------- |
 | Type of Term  | Property  |
@@ -83,7 +89,7 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 | Definition | An entity responsible for making the resource available. |
 | Comment | Examples of a Publisher include a person, an organization, or a service. Typically, the name of a Publisher should be used to indicate the entity. |
 
-## creator
+### creator
 | Term name | dc:creator |
 | ------------- | ------------- |
 | Type of Term  | Property  |
@@ -91,40 +97,40 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 | Definition | 	An entity primarily responsible for making the resource. |
 | Comments| Examples of a Creator include a person, an organization, or a service. Typically, the name of a Creator should be used to indicate the entity. |
 
-## references
+### references
 | Term name | dct:references |
 | ------------- | ------------- |
 | Type of Term  | Property  |
 | URI  | http://purl.org/dc/terms/references |
 | Comment | Deprecated in Almes Core schema (still in use in Dublin Core). Replaced by <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#accessURL">dcat:accessURL</a>. |
 
-## accessURL
+### accessURL
 | Term name | dcat:accessURL |
 | ------------- | ------------- |
 | Type of Term  | Property  |
 | URI  | https://www.w3.org/ns/dcat#accessURL |
 | Definition | A URL of the resource that gives access to a distribution of the dataset. E.g. landing page, feed, SPARQL endpoint. |
 
-## description
+### description
 | Term name | dcat:description |
 | URI  | http://purl.org/dc/terms/description |
 | Definition | 	Description may include but is not limited to: an abstract, a table of contents, a graphical representation, or a free-text account of the resource. |
 
-## dataType
+### dataType
 | Term name | sdo:dataType |
 | ------------- | ------------- |
 | Type of Term  | Property  |
 | URI  | https://schema.org/DataType |
 | Comment | Deprecated in Almes Core schema (still in use in Schema.org). |
 
-## frequency
+### frequency
 | Term name | sdo:frequency |
 | ------------- | ------------- |
 | Type of Term  | Property  |
 | URI  | https://schema.org/frequency |
 | Comment | Deprecated in Almes Core schema (still in use in Schema.org). Replaced by <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#accrualPeriodicity">dct:accrualPeriodicity</a>. |
 
-## accrualPeriodicity
+### accrualPeriodicity
 | Term name | dct:accrualPeriodicity |
 | ------------- | ------------- |
 | Type of Term  | Property  |
@@ -132,7 +138,7 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 | Definition | The frequency with which items are added to a collection. |
 | Comment | Recommended practice is to use a value from the Collection Description Frequency Vocabulary <a href="https://www.dublincore.org/specifications/dublin-core/collection-description/frequency/">(DCMI-COLLFREQ)</a>. 
 
-## location
+### location
 | Term name | sdo:location |
 | ------------- | ------------- |
 | Type of Term  | Property  |
@@ -140,21 +146,21 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 | Definition | The location of, for example, where an event is happening, where an organization is located, or where an action takes place. |
 | Comment | Recommended practice is to use a value from a controlled vocabulary such as <a href="https://www.geonames.org/">Geonames.org</a>. 
 
-## startDate
+### startDate
 | Term name | sdo:startDate |
 | ------------- | ------------- |
 | Type of Term  | Property  |
 | URI  | https://schema.org/startDate |
 | Definition | The start date and time of the item (in ISO 8601 date format). |
 
-## endDate
+### endDate
 | Term name | sdo:endDate |
 | ------------- | ------------- |
 | Type of Term  | Property  |
 | URI  | https://schema.org/endDate |
 | Definition | The end date and time of the item (in ISO 8601 date format). |
 
-## modified
+### modified
 | Term name | dct:modified |
 | ------------- | ------------- |
 | Type of Term  | Property  |
@@ -162,7 +168,7 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 | Definition | Date on which the resource was changed. |
 | Comment | Recommended practice is to describe the date, date/time, or period of time as recommended for the property Date, of which this is a subproperty. |
 
-## license
+### license
 | Term name | dct:license |
 | ------------- | ------------- |
 | Type of Term  | Property  |
@@ -170,7 +176,7 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 | Definition | A legal document giving official permission to do something with the resource. |
 | Comment | Recommended practice is to identify the license document with a URI. If this is not possible or feasible, a literal value that identifies the license may be provided. |
 
-## rights
+### rights
 | Term name | dct:rights |
 | ------------- | ------------- |
 | Type of Term  | Property  |
@@ -178,7 +184,7 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 | Definition | Information about rights held in and over the resource. |
 | Comment | Typically, rights information includes a statement about various property rights associated with the resource, including intellectual property rights. |
 
-## statisticalMethod
+### statisticalMethod
 | Term name | alm:statisticalMethod |
 | ------------- | ------------- |
 | Type of Term  | Property  |
