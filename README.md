@@ -134,9 +134,12 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 | subproperty of | <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#creator">dc:creator</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#publisher">dc:publisher</a> |  
 
 
-##Dataset
-
-
+## Dataset
+| Term name | dcat:Dataset |
+| ------------- | ------------- |
+| Type of Term  | Class  |
+| URI  | https://www.w3.org/ns/dcat#Dataset |
+| Definition  | A collection of data, published or curated by a single agent, and available for access or download in one or more representations.  |
 
 ### productGroup
 
@@ -148,6 +151,15 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 | Comment | The best recommended practice is to use a controlled vocabulary. Example: grain, vegetables, meat. |
 | Broader Match | <a href="https://schema.org/ProductGroup">sdo:productGroup</a> |
 
+### product
+| Term name | alm:product |
+| ------------- | ------------- |
+| Type of Term  | Property  |
+| URI  | http://purl.org/almescore/product  |
+| Definition | Name of the agricultural or livestock product targeted by the commercial operation.                                                    |
+| Comment | The best recommended practice is to use a controlled vocabulary. Example: soy, corn, fed cattle. |
+| Broader Match | <a href="https://schema.org/Product">sdo:product</a> |
+
 ### theme
 | Term name | alm:theme |
 | ------------- | ------------- |
@@ -157,15 +169,6 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 | Comment | The best recommended practice is to use a controlled vocabulary. Example: agriculture, livestock, forest production, fishing, aquaculture. |
 | References | https://metadados.ibge.gov.br/consulta/estatisticos/temas |
 | Broader Match | <a href="http://www.w3.org/ns/dcat#theme">dcat:theme</a> |
-
-### product
-| Term name | alm:product |
-| ------------- | ------------- |
-| Type of Term  | Property  |
-| URI  | http://purl.org/almescore/product  |
-| Definition | Name of the agricultural or livestock product targeted by the commercial operation.                                                    |
-| Comment | The best recommended practice is to use a controlled vocabulary. Example: soy, corn, fed cattle. |
-| Broader Match | <a href="https://schema.org/Product">sdo:product</a> |
 
 ### verbatimName
 | Term name | alm:verbatimName |
@@ -231,22 +234,6 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 | Type of Term  | Property  |
 | URI  | https://schema.org/endDate |
 | Definition | The end date and time of the item (in ISO 8601 date format). |
-
-### license
-| Term name | dct:license |
-| ------------- | ------------- |
-| Type of Term  | Property  |
-| URI  | http://purl.org/dc/terms/license |
-| Definition | A legal document giving official permission to do something with the resource. |
-| Comment | Recommended practice is to identify the license document with a URI. If this is not possible or feasible, a literal value that identifies the license may be provided. |
-
-### rights
-| Term name | dct:rights |
-| ------------- | ------------- |
-| Type of Term  | Property  |
-| URI  | http://purl.org/dc/elements/1.1/rights |
-| Definition | Information about rights held in and over the resource. |
-| Comment | Typically, rights information includes a statement about various property rights associated with the resource, including intellectual property rights. |
 
 ### statisticalMethod
 | Term name | alm:statisticalMethod |
