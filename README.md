@@ -18,7 +18,7 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 | ------------- | ------------- |
 | alm | http://purl.org/almescore |
 | dc  | http://purl.org/dc/elements/1.1/  |
-| scm  | https://schema.org/docs/schemas.html  |
+| sdo  | https://schema.org/docs/schemas.html  |
 | dcat | http://www.w3.org/ns/dcat# |
 | dct | http://purl.org/dc/terms/ |
 
@@ -32,7 +32,7 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 | URI  | http://purl.org/almescore/productGroup  |
 | Definition  | A ProductGroup represents a group of products resulting from agriculture or livestock activities that vary only in certain well-described ways, being aggregated according to common biological traits.  |
 | Comment | The best recommended practice is to use a controlled vocabulary. Example: grain, vegetables, meat. |
-| Broader Match | <a href="https://schema.org/ProductGroup">scm:productGroup</a> |
+| Broader Match | <a href="https://schema.org/ProductGroup">sdo:productGroup</a> |
 
 ## theme
 | Term name | theme |
@@ -51,7 +51,7 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 | URI  | http://purl.org/almescore/product  |
 | Definition | Name of the agricultural or livestock product targeted by the commercial operation.                                                    |
 | Comment | The best recommended practice is to use a controlled vocabulary. Example: soy, corn, fed cattle. |
-| Broader Match | <a href="https://schema.org/Product">scm:product</a> |
+| Broader Match | <a href="https://schema.org/Product">sdo:product</a> |
 
 ## verbatimName
 | Term name | verbatimName |
@@ -97,17 +97,26 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 | Definition | A URL of the resource that gives access to a distribution of the dataset. E.g. landing page, feed, SPARQL endpoint. |
 
 ## dataType
-| Term name | dataType |
+| Term name | sdo:dataType |
 | ------------- | ------------- |
 | Type of Term  | Property  |
 | URI  | https://schema.org/DataType |
 | Comment | Deprecated in Almes Core schema (still in use in Schema.org). |
 
 ## frequency
-| Term name | frequency |
+| Term name | sdo:frequency |
 | ------------- | ------------- |
 | Type of Term  | Property  |
 | URI  | https://schema.org/frequency |
+| Comment | Deprecated in Almes Core schema (still in use in Schema.org). Replaced by <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#accrualPeriodicity">dct:accrualPeriodicity</a>. |
+
+## accrualPeriodicity
+| Term name | dct:accrualPeriodicity |
+| ------------- | ------------- |
+| Type of Term  | Property  |
+| URI  | http://purl.org/dc/terms/accrualPeriodicity |
+| Definition | The frequency with which items are added to a collection. |
+| Comment | Recommended practice is to use a value from the Collection Description Frequency Vocabulary <a href="https://www.dublincore.org/specifications/dublin-core/collection-description/frequency/">(DCMI-COLLFREQ)</a>. 
 
 ## quantitativeValue
 | Term name | quantitativeValue |
