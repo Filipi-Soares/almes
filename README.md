@@ -49,7 +49,7 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 | ------------- | ------------- |
 | Type of Term  | Property  |
 | URI  | http://purl.org/almescore/product  |
-| Definition | Name of the agricultural or livestock product targeted by the commercial operation. |
+| Definition | Name of the agricultural or livestock product targeted by the commercial operation.                                                    |
 | Comment | The best recommended practice is to use a controlled vocabulary. Example: soy, corn, fed cattle. |
 | Broader Match | https://schema.org/Product |
 
