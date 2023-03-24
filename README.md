@@ -25,7 +25,7 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 # Index of Terms
 
 
-##Resource
+## Resource
 | Term name | dcat:Resource |
 | ------------- | ------------- |
 | Type of Term  | Class  |
