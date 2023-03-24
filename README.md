@@ -79,7 +79,8 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 | Term name | dc:creator |
 | ------------- | ------------- |
 | Type of Term  | Property  |
-| URI  | http://purl.org/dc/terms/creator  |
+| URI  | http://purl.org/dc/elements/1.1/creator  |
+| Definition | Examples of a Creator include a person, an organization, or a service. Typically, the name of a Creator should be used to indicate the entity. |
 
 ## references
 | Term name | references |
