@@ -26,6 +26,12 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 
 
 ##Resource
+| Term name | dcat:Resource |
+| ------------- | ------------- |
+| Type of Term  | Class  |
+| URI  | https://www.w3.org/ns/dcat#Resource  |
+| Definition  | Resource published or curated by a single agent.  |
+
 ##Dataset
 ##Agent
 
