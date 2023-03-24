@@ -118,29 +118,13 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 | Definition | The frequency with which items are added to a collection. |
 | Comment | Recommended practice is to use a value from the Collection Description Frequency Vocabulary <a href="https://www.dublincore.org/specifications/dublin-core/collection-description/frequency/">(DCMI-COLLFREQ)</a>. 
 
-## quantitativeValue
-| Term name | quantitativeValue |
-| ------------- | ------------- |
-| Type of Term  | Class  |
-| URI  | https://schema.org/frequency |
-
-## unitText
-| Term name | unitText |
-| ------------- | ------------- |
-| Type of Term  | Property  |
-| URI  | https://schema.org/unitText |
-
-## currency
-| Term name | currency |
-| ------------- | ------------- |
-| Type of Term  | Property  |
-| URI  | https://schema.org/unitText |
-
 ## location
-| Term name | currency |
+| Term name | sdo:location |
 | ------------- | ------------- |
 | Type of Term  | Property  |
 | URI  | https://schema.org/location |
+| Definition | The location of, for example, where an event is happening, where an organization is located, or where an action takes place. |
+| Comment | Recommended practice is to use a value from a controlled vocabulary such as <a href="https://www.geonames.org/">Geonames.org</a>. 
 
 ## startDate
 | Term name | startDate |
