@@ -32,6 +32,50 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 | URI  | https://www.w3.org/ns/dcat#Resource  |
 | Definition  | Resource published or curated by a single agent.  |
 
+### title
+| Term name | dc:title |
+| ------------- | ------------- |
+| Type of Term  | Property  |
+| URI  | http://purl.org/dc/elements/1.1/title  |
+| Definition | A name given to the resource.   |
+
+### description
+| Term name | dcat:description |
+| URI  | http://purl.org/dc/terms/description |
+| Definition | 	Description may include but is not limited to: an abstract, a table of contents, a graphical representation, or a free-text account of the resource. |
+
+### publisher
+| Term name | dc:publisher |
+| ------------- | ------------- |
+| Type of Term  | Property  |
+| URI  | http://purl.org/dc/elements/1.1/publisher  |
+| Definition | An entity responsible for making the resource available. |
+| Comment | Examples of a Publisher include a person, an organization, or a service. Typically, the name of a Publisher should be used to indicate the entity. |
+
+### creator
+| Term name | dc:creator |
+| ------------- | ------------- |
+| Type of Term  | Property  |
+| URI  | http://purl.org/dc/elements/1.1/creator  |
+| Definition | 	An entity primarily responsible for making the resource. |
+| Comments| Examples of a Creator include a person, an organization, or a service. Typically, the name of a Creator should be used to indicate the entity. |
+
+### modified
+| Term name | dct:modified |
+| ------------- | ------------- |
+| Type of Term  | Property  |
+| URI  | http://purl.org/dc/terms/modified |
+| Definition | Date on which the resource was changed. |
+| Comment | Recommended practice is to describe the date, date/time, or period of time as recommended for the property Date, of which this is a subproperty. |
+
+### version
+| Term name | dct:hasVersion |
+| ------------- | ------------- |
+| Type of Term  | Property  |
+| URI  | http://purl.org/dc/terms/hasVersion |
+| Definition | A related resource that is a version, edition, or adaptation of the described resource. |
+| Comment | Changes in version imply substantive changes in content rather than differences in format. This property is intended to be used with non-literal values. This property is an inverse property of Is Version Of. |
+
 ##Dataset
 ##Agent
 
@@ -72,13 +116,6 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 | URI  | http://purl.org/almescore/verbatimName  |
 | Comment | Deprecated. Replaced by <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#title">dc:title</a>. |
 
-### title
-| Term name | dc:title |
-| ------------- | ------------- |
-| Type of Term  | Property  |
-| URI  | http://purl.org/dc/elements/1.1/title  |
-| Definition | A name given to the resource.   |
-
 ### language
 | Term name | dct:language |
 | ------------- | ------------- |
@@ -86,22 +123,6 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 | URI  | http://purl.org/dc/terms/language  |
 | Definition | A language of the resource. |
 | Comment | Recommended practice is to use either a non-literal value representing a language from a controlled vocabulary such as ISO 639-2 or ISO 639-3, or a literal value consisting of an IETF Best Current Practice 47 <a href="https://www.rfc-editor.org/info/bcp47">(IETF-BCP47)</a> language tag. |
-
-### publisher
-| Term name | dc:publisher |
-| ------------- | ------------- |
-| Type of Term  | Property  |
-| URI  | http://purl.org/dc/elements/1.1/publisher  |
-| Definition | An entity responsible for making the resource available. |
-| Comment | Examples of a Publisher include a person, an organization, or a service. Typically, the name of a Publisher should be used to indicate the entity. |
-
-### creator
-| Term name | dc:creator |
-| ------------- | ------------- |
-| Type of Term  | Property  |
-| URI  | http://purl.org/dc/elements/1.1/creator  |
-| Definition | 	An entity primarily responsible for making the resource. |
-| Comments| Examples of a Creator include a person, an organization, or a service. Typically, the name of a Creator should be used to indicate the entity. |
 
 ### references
 | Term name | dct:references |
@@ -116,11 +137,6 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 | Type of Term  | Property  |
 | URI  | https://www.w3.org/ns/dcat#accessURL |
 | Definition | A URL of the resource that gives access to a distribution of the dataset. E.g. landing page, feed, SPARQL endpoint. |
-
-### description
-| Term name | dcat:description |
-| URI  | http://purl.org/dc/terms/description |
-| Definition | 	Description may include but is not limited to: an abstract, a table of contents, a graphical representation, or a free-text account of the resource. |
 
 ### dataType
 | Term name | sdo:dataType |
@@ -165,14 +181,6 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 | Type of Term  | Property  |
 | URI  | https://schema.org/endDate |
 | Definition | The end date and time of the item (in ISO 8601 date format). |
-
-### modified
-| Term name | dct:modified |
-| ------------- | ------------- |
-| Type of Term  | Property  |
-| URI  | http://purl.org/dc/terms/modified |
-| Definition | Date on which the resource was changed. |
-| Comment | Recommended practice is to describe the date, date/time, or period of time as recommended for the property Date, of which this is a subproperty. |
 
 ### license
 | Term name | dct:license |
