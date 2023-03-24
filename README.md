@@ -58,7 +58,7 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 | ------------- | ------------- |
 | Type of Term  | Property  |
 | URI  | http://purl.org/almescore/verbatimName  |
-| Comment | Deprecated. Replaced by dc:title |
+| Comment | Deprecated. Replaced by <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#title">dc:title</a> |
 
 ## title
 | Term name | dc:title |
