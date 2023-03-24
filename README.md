@@ -67,14 +67,16 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 | URI  | http://purl.org/dc/elements/1.1/title  |
 | Definition | A name given to the resource.                                                    |
 
-## editor
-| Term name | editor |
+## publisher
+| Term name | dc:publisher |
 | ------------- | ------------- |
 | Type of Term  | Property  |
-| URI  | http://purl.org/dc/terms/publisher  |
+| URI  | http://purl.org/dc/elements/1.1/publisher  |
+| Definition | An entity responsible for making the resource available. |
+| Comment | Examples of a Publisher include a person, an organization, or a service. Typically, the name of a Publisher should be used to indicate the entity. |
 
 ## creator
-| Term name | creator |
+| Term name | dc:creator |
 | ------------- | ------------- |
 | Type of Term  | Property  |
 | URI  | http://purl.org/dc/terms/creator  |
