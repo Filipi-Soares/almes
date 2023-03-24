@@ -25,7 +25,7 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 
 # Index of Terms
 <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#resource">Resource (Class)</a>
-<p><font size="6">Font size is 6</font></p>
+<p><font size="12">Font size is 6</font></p>
 
 <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#title">title (property)</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#description">description (property)</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#publisher">publisher (property)</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#creator">creator (property)</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#modified">modified (property)</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#modified">version (property)</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#language">language (property)</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#license">license (property)</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#rights">rights (property)</a>.
 
