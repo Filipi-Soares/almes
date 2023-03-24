@@ -107,6 +107,31 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 | Type of Term  | Class  |
 | URI  | http://xmlns.com/foaf/0.1/#term_Agent |
 | Definition  | An agent (eg. person, group, software or physical artifact).  |
+ 
+### name
+| Term name | foaf:name |
+| ------------- | ------------- |
+| Type of Term  | Property  |
+| URI  | http://xmlns.com/foaf/0.1/#term_name |
+| Definition  | A name for some thing.  |
+| subproperty of | <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#creator">dc:creator</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#publisher">dc:publisher</a> | 
+
+### homepage
+| Term name | foaf:homepage |
+| ------------- | ------------- |
+| Type of Term  | Property  |
+| URI  | http://xmlns.com/foaf/0.1/#term_homepage |
+| Definition  | A homepage for some thing.  |
+| subproperty of | <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#creator">dc:creator</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#publisher">dc:publisher</a> | 
+
+### e-mail
+| Term name | foaf:mbox |
+| ------------- | ------------- |
+| Type of Term  | Property  |
+| URI  | http://xmlns.com/foaf/0.1/#term_mbox |
+| Definition  | A personal mailbox, ie. an Internet mailbox associated with exactly one owner, the first owner of this mailbox. This is a 'static inverse functional property', in that there is (across time and change) at most one individual that ever has any particular value for foaf:mbox.  |
+| subproperty of | <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#creator">dc:creator</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#publisher">dc:publisher</a> |  
+
 
 ##Dataset
 
