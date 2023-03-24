@@ -80,7 +80,8 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 | ------------- | ------------- |
 | Type of Term  | Property  |
 | URI  | http://purl.org/dc/elements/1.1/creator  |
-| Definition | Examples of a Creator include a person, an organization, or a service. Typically, the name of a Creator should be used to indicate the entity. |
+| Definition | 	An entity primarily responsible for making the resource. |
+| Comments| Examples of a Creator include a person, an organization, or a service. Typically, the name of a Creator should be used to indicate the entity. |
 
 ## references
 | Term name | dct:references |
@@ -95,6 +96,11 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 | Type of Term  | Property  |
 | URI  | https://www.w3.org/ns/dcat#accessURL |
 | Definition | A URL of the resource that gives access to a distribution of the dataset. E.g. landing page, feed, SPARQL endpoint. |
+
+## description
+| Term name | dcat:description |
+| URI  | http://purl.org/dc/terms/description |
+| Definition | 	Description may include but is not limited to: an abstract, a table of contents, a graphical representation, or a free-text account of the resource. |
 
 ## dataType
 | Term name | sdo:dataType |
@@ -162,7 +168,7 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 | Type of Term  | Property  |
 | URI  | http://purl.org/dc/elements/1.1/rights |
 | Definition | Information about rights held in and over the resource. |
-| Comment | RTypically, rights information includes a statement about various property rights associated with the resource, including intellectual property rights. |
+| Comment | Typically, rights information includes a statement about various property rights associated with the resource, including intellectual property rights. |
 
 ## statisticalMethod
 | Term name | alm:statisticalMethod |
