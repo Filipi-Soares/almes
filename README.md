@@ -32,7 +32,7 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 | URI  | http://purl.org/almescore/productGroup  |
 | Definition  | A ProductGroup represents a group of products resulting from agriculture or livestock activities that vary only in certain well-described ways, being aggregated according to common biological traits.  |
 | Comment | The best recommended practice is to use a controlled vocabulary. Example: grain, vegetables, meat. |
-| Broader Match | https://schema.org/ProductGroup |
+| Broader Match | <a href="https://schema.org/ProductGroup">scm:productGroup</a>. |
 
 ## theme
 | Term name | theme |
@@ -51,7 +51,7 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 | URI  | http://purl.org/almescore/product  |
 | Definition | Name of the agricultural or livestock product targeted by the commercial operation.                                                    |
 | Comment | The best recommended practice is to use a controlled vocabulary. Example: soy, corn, fed cattle. |
-| Broader Match | https://schema.org/Product |
+| Broader Match | <a href="https://schema.org/Product">scm:product</a> |
 
 ## verbatimName
 | Term name | verbatimName |
