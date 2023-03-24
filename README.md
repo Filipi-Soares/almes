@@ -42,6 +42,7 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 
 ### description
 | Term name | dcat:description |
+| ------------- | ------------- |
 | URI  | http://purl.org/dc/terms/description |
 | Definition | 	Description may include but is not limited to: an abstract, a table of contents, a graphical representation, or a free-text account of the resource. |
 
