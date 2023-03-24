@@ -26,7 +26,7 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 
 ## productGroup
 
-| Term name | productGroup |
+| Term name | alm:productGroup |
 | ------------- | ------------- |
 | Type of Term  | Property  |
 | URI  | http://purl.org/almescore/productGroup  |
@@ -35,7 +35,7 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 | Broader Match | <a href="https://schema.org/ProductGroup">sdo:productGroup</a> |
 
 ## theme
-| Term name | theme |
+| Term name | alm:theme |
 | ------------- | ------------- |
 | Type of Term  | Property  |
 | URI  |  http://purl.org/almescore/theme |
@@ -45,7 +45,7 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 | Broader Match | <a href="http://www.w3.org/ns/dcat#theme">dcat:theme</a> |
 
 ## product
-| Term name | product |
+| Term name | alm:product |
 | ------------- | ------------- |
 | Type of Term  | Property  |
 | URI  | http://purl.org/almescore/product  |
@@ -54,7 +54,7 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 | Broader Match | <a href="https://schema.org/Product">sdo:product</a> |
 
 ## verbatimName
-| Term name | verbatimName |
+| Term name | alm:verbatimName |
 | ------------- | ------------- |
 | Type of Term  | Property  |
 | URI  | http://purl.org/almescore/verbatimName  |
@@ -83,14 +83,14 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 | Definition | Examples of a Creator include a person, an organization, or a service. Typically, the name of a Creator should be used to indicate the entity. |
 
 ## references
-| Term name | references |
+| Term name | dct:references |
 | ------------- | ------------- |
 | Type of Term  | Property  |
 | URI  | http://purl.org/dc/terms/references |
 | Comment | Deprecated in Almes Core schema (still in use in Dublin Core). Replaced by <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#accessURL">dcat:accessURL</a>. |
 
 ## accessURL
-| Term name | accessURL |
+| Term name | dcat:accessURL |
 | ------------- | ------------- |
 | Type of Term  | Property  |
 | URI  | https://www.w3.org/ns/dcat#accessURL |
@@ -149,15 +149,27 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 | Comment | Recommended practice is to describe the date, date/time, or period of time as recommended for the property Date, of which this is a subproperty. |
 
 ## license
-| Term name | license |
+| Term name | dct:license |
 | ------------- | ------------- |
 | Type of Term  | Property  |
 | URI  | http://purl.org/dc/terms/license |
+| Definition | A legal document giving official permission to do something with the resource. |
+| Comment | Recommended practice is to identify the license document with a URI. If this is not possible or feasible, a literal value that identifies the license may be provided. |
+
+## rights
+| Term name | dct:rights |
+| ------------- | ------------- |
+| Type of Term  | Property  |
+| URI  | http://purl.org/dc/elements/1.1/rights |
+| Definition | Information about rights held in and over the resource. |
+| Comment | RTypically, rights information includes a statement about various property rights associated with the resource, including intellectual property rights. |
 
 ## statisticalMethod
-| Term name | statisticalMethod |
+| Term name | alm:statisticalMethod |
 | ------------- | ------------- |
 | Type of Term  | Property  |
 | URI  | http://purl.org/almescore/statisticalMethod |
+| Definition | Summary of the methods used for the process of obtaining data for the production of the series. |
+| Comment| Recommended best practice is to indicate the published resource URI in an open access format. |
 
 
