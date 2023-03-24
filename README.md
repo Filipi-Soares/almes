@@ -87,6 +87,14 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 | ------------- | ------------- |
 | Type of Term  | Property  |
 | URI  | http://purl.org/dc/terms/references |
+| Comment | Deprecated in Almes Core schema (still in use in Dublin Core). Replaced by <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#accessURL">dcat:accessURL</a>. |
+
+## accessURL
+| Term name | accessURL |
+| ------------- | ------------- |
+| Type of Term  | Property  |
+| URI  | https://www.w3.org/ns/dcat#accessURL |
+| Definition | A URL of the resource that gives access to a distribution of the dataset. E.g. landing page, feed, SPARQL endpoint. |
 
 ## dataType
 | Term name | dataType |
