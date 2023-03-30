@@ -228,11 +228,18 @@ Namespaces and prefixes used in normative parts of this recommendation are shown
 | Definition | The frequency with which items are added to a collection. |
 | Comment | Recommended practice is to use a value from the Collection Description Frequency Vocabulary <a href="https://www.dublincore.org/specifications/dublin-core/collection-description/frequency/">(DCMI-COLLFREQ)</a>. 
 
+### referenceQuantity
+| Term name | sdo:referenceQuantity |
+| ------------- | ------------- |
+| Type of Term  | Property  |
+| URI  | https://schema.org/location |
+| Definition | The reference quantity for which a certain price applies, e.g. 1 EUR per 4 kWh of electricity. This property is a replacement for unitOfMeasurement for the advanced cases where the price does not relate to a standard unit. |
+
 ### location
 | Term name | sdo:location |
 | ------------- | ------------- |
 | Type of Term  | Property  |
-| URI  | https://schema.org/location |
+| URI  | https://schema.org/referenceQuantity |
 | Definition | The location of, for example, where an event is happening, where an organization is located, or where an action takes place. |
 | Comment | Recommended practice is to use a value from a controlled vocabulary such as <a href="https://www.geonames.org/">Geonames.org</a>. 
 
