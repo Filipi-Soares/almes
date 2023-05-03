@@ -10,7 +10,6 @@ Preliminary repository for the Almes Core vocabulary
 | Document Status | draft |
 | Description | Este documento é a versão mais atualizada da especificação de todos os termos de metadados mantidos pelo C4AI AgriBio Data Managment Team, incluindo classes, propriedades, esquemas de codificação de vocabulário, e esquemas de codificação de sintaxe |
 | Namespace | http://purl.org/almescore |
-| Prefix | alm: |
 
 # Normative namespaces
 Namespaces and prefixes used in normative parts of this recommendation are shown in the following table.
