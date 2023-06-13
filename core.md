@@ -9,7 +9,7 @@ Preliminary repository for the Almes Core vocabulary
 | Version History | https://github.com/Filipi-Soares/almes/blob/main/deprecatedElements.md |
 | Last updated | 2023-06-13 |
 | Document Status | valid |
-| Description | This document is the most up-to-date version of the Agriculture and Livestock Metadata Element Set (Almes Core), maintained by the center for Artificial Intelligence (C4AI) AgriBio Data Management Team, including classes, properties, vocabulary encoding schemes, and syntax encoding schemes.  |
+| Description | This document contains the most up-to-date version of the Agriculture and Livestock Metadata Element Set (Almes Core), maintained by the center for Artificial Intelligence (C4AI) AgriBio Data Management Team, including classes, properties, vocabulary encoding schemes, and syntax encoding schemes.  |
 
 
 # Normative namespaces
