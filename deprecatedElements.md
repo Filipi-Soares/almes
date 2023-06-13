@@ -8,3 +8,4 @@
 | Broader Match | <a href="https://schema.org/Product">sdo:product</a> |
 | Status | deprecated |
 | Date deprecated | 13 Jun 2023 |
+| Replaced by | xxxx |
