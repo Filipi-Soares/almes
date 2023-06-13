@@ -65,9 +65,9 @@
     
 
 
-    <!-- http://purl.org/almescore/product -->
+    <!-- http://purl.org/almescore/productType -->
 
-    <owl:ObjectProperty rdf:about="http://purl.org/almescore/product">
+    <owl:ObjectProperty rdf:about="http://purl.org/almescore/productType">
         <rdfs:domain rdf:resource="https://www.w3.org/ns/dcat#Dataset"/>
         <rdfs:comment xml:lang="en">Name of the agricultural or livestock product targeted by the commercial operation. The best recommended practice is to use a controlled vocabulary. Example: soy, corn, fed cattle.</rdfs:comment>
         <rdfs:comment xml:lang="pt">Nome do produto agrícola ou pecuário. A melhor prática recomendada é utilizar um vocabulário controlado. Exemplo: soja, milho, boi gordo.</rdfs:comment>
