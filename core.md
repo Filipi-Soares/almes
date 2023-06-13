@@ -188,13 +188,6 @@ Namespaces and prefixes used in normative parts of this recommendation.
 | References | https://metadados.ibge.gov.br/consulta/estatisticos/temas |
 | Broader Match | <a href="http://www.w3.org/ns/dcat#theme">dcat:theme</a> |
 
-### verbatimName
-| Term name | alm:verbatimName |
-| ------------- | ------------- |
-| Type of Term  | Property  |
-| URI  | http://purl.org/almescore/verbatimName  |
-| Comment | Deprecated. Replaced by <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#title">dc:title</a>. |
-
 ### accessURL
 | Term name | dcat:accessURL |
 | ------------- | ------------- |
