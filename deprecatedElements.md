@@ -25,3 +25,22 @@
 | Status | deprecated |
 | Date deprecated | 2023-06-13 |
 | Replaced by | <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#title">dc:title</a> |
+
+### dataType
+| Term name | sdo:dataType |
+| ------------- | ------------- |
+| Type of Term  | Property  |
+| URI  | https://schema.org/DataType |
+| Status | deprecated |
+| Date deprecated | 2023-06-13 |
+| Comment | Deprecated only in the Almes Core schema, but still in use in Schema.org). |
+
+### frequency
+| Term name | sdo:frequency |
+| ------------- | ------------- |
+| Type of Term  | Property  |
+| URI  | https://schema.org/frequency |
+| Status | deprecated |
+| Date deprecated | 2023-06-13 |
+| Replaced by | <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#accrualPeriodicity">dct:accrualPeriodicity</a> |
+| Comment | Deprecated only in the Almes Core schema, but still in use in Schema.org). 
