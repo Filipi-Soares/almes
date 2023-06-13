@@ -40,8 +40,17 @@ Namespaces and prefixes used in normative parts of this recommendation.
 
 <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#productGroup">productGroup (property)</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#product">product (property)</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#theme">theme (property)</a>. <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#accessURL">accessURL (property)</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#accrualPeriodicity">accrualPeriodicity (property)</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#referenceQuantity">referenceQuantity (property)</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#location">location (property)</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#startDate">startDate (property)</a>. <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#accessURL">accessURL (property)</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#endDate">endDate (property)</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#statisticalMethod">statisticalMethod (property)</a>; 
 
-[![Green Button](https://placehold.it/120x30/00ff00/000000?text=Green+Button)](https://example.com/green)
-[![Blue Button](https://placehold.it/120x30/0000ff/ffffff?text=Blue+Button)](https://example.com/blue)
+[Resource (Class)](https://github.com/Filipi-Soares/almes/blob/main/README.md#resource)
+
+[title (property)](https://github.com/Filipi-Soares/almes/blob/main/README.md#title); [description (property)](https://github.com/Filipi-Soares/almes/blob/main/README.md#description); [publisher (property)](https://github.com/Filipi-Soares/almes/blob/main/README.md#publisher); [creator (property)](https://github.com/Filipi-Soares/almes/blob/main/README.md#creator); [modified (property)](https://github.com/Filipi-Soares/almes/blob/main/README.md#modified); [version (property)](https://github.com/Filipi-Soares/almes/blob/main/README.md#modified); [language (property)](https://github.com/Filipi-Soares/almes/blob/main/README.md#language); [license (property)](https://github.com/Filipi-Soares/almes/blob/main/README.md#license); [rights (property)](https://github.com/Filipi-Soares/almes/blob/main/README.md#rights).
+
+[Agent (Class)](https://github.com/Filipi-Soares/almes/blob/main/README.md#agent)
+
+[name (property)](https://github.com/Filipi-Soares/almes/blob/main/README.md#name); [homepage (property)](https://github.com/Filipi-Soares/almes/blob/main/README.md#homepage); [e-mail (property)](https://github.com/Filipi-Soares/almes/blob/main/README.md#e-mail).
+
+[Dataset (Class)](https://github.com/Filipi-Soares/almes/blob/main/README.md#dataset)
+
+[productGroup (property)](https://github.com/Filipi-Soares/almes/blob/main/README.md#productGroup); [product (property)](https://github.com/Filipi-Soares/almes/blob/main/README.md#product); [theme (property)](https://github.com/Filipi-Soares/almes/blob/main/README.md#theme). [accessURL (property)](https://github.com/Filipi-Soares/almes/blob/main/README.md#accessURL); [accrualPeriodicity (property)](https://github.com/Filipi-Soares/almes/blob/main/README.md#accrualPeriodicity); [referenceQuantity (property)](https://github.com/Filipi-Soares/almes/blob/main/README.md#referenceQuantity); [location (property)](https://github.com/Filipi-Soares/almes/blob/main/README.md#location); [startDate (property)](https://github.com/Filipi-Soares/almes/blob/main/README.md#startDate). [accessURL (property)](https://github.com/Filipi-Soares/almes/blob/main/README.md#accessURL); [endDate (property)](https://github.com/Filipi-Soares/almes/blob/main/README.md#endDate); [statisticalMethod (property)](https://github.com/Filipi-Soares/almes/blob/main/README.md#statisticalMethod);
 
 
 
