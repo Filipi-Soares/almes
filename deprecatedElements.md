@@ -8,4 +8,4 @@
 | Broader Match | <a href="https://schema.org/Product">sdo:product</a> |
 | Status | deprecated |
 | Date deprecated | 2023-06-13 |
-| Replaced by | xxxx |
+| Replaced by | [productType](http://purl.org/almescore/productType) |
