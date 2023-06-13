@@ -6,10 +6,11 @@ Preliminary repository for the Almes Core vocabulary
 | Creator  | C4AI AgriBio Data Managment Team  |
 | Identifier  | http://purl.org/almescore |
 | Latest Version | http://purl.org/almescore |
-| Version History | https://github.com/Filipi-Soares/almes/blob/main/README.md |
-| Document Status | draft |
-| Description | Este documento é a versão mais atualizada da especificação de todos os termos de metadados mantidos pelo C4AI AgriBio Data Managment Team, incluindo classes, propriedades, esquemas de codificação de vocabulário, e esquemas de codificação de sintaxe |
-| Namespace | http://purl.org/almescore |
+| Version History | https://github.com/Filipi-Soares/almes/blob/main/deprecatedElements.md |
+| Last updated | 2023-06-13 |
+| Document Status | valid |
+| Description | This document is the most up-to-date version of the Agriculture and Livestock Metadata Element Set (Almes Core), maintained by the center for Artificial Intelligence (C4AI) AgriBio Data Management Team, including classes, properties, vocabulary encoding schemes, and syntax encoding schemes.  |
+
 
 # Normative namespaces
 Namespaces and prefixes used in normative parts of this recommendation are shown in the following table.
