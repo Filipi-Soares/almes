@@ -24,4 +24,4 @@
 | URI  | http://purl.org/almescore/verbatimName  |
 | Status | deprecated |
 | Date deprecated | 2023-06-13 |
-| Replaced by | <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#title">dc:title</a>. |
+| Replaced by | <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#title">dc:title</a> |
