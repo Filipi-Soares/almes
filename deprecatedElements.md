@@ -7,5 +7,5 @@
 | Comment | The best recommended practice is to use a controlled vocabulary. Example: soy, corn, fed cattle. |
 | Broader Match | <a href="https://schema.org/Product">sdo:product</a> |
 | Status | deprecated |
-| Date deprecated | 13 Jun 2023 |
+| Date deprecated | 2023-06-13 |
 | Replaced by | xxxx |
