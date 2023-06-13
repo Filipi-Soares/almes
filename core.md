@@ -24,20 +24,20 @@ Namespaces and prefixes used in normative parts of this recommendation.
 | foaf| http://xmlns.com/foaf/0.1/ |
 
 # Index of Terms
-<a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#resource">**Resource**</a>
+<a href="https://github.com/Filipi-Soares/almes/blob/main/core.md#resource">**Resource**</a>
 
-<a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#title">title</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#description">description</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#publisher">publisher</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#creator">creator</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#modified">modified</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#modified">version</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#language">language</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#license">license</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#rights">rights</a>.
+<a href="https://github.com/Filipi-Soares/almes/blob/main/core.md#title">title</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/core.md#description">description</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/core.md#publisher">publisher</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/core.md#creator">creator</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/core.md#modified">modified</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/core.md#modified">version</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/core.md#language">language</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/core.md#license">license</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/core.md#rights">rights</a>.
 
-<a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#agent">**Agent**</a>
-
-
-<a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#name">name</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#homepage">homepage</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#e-mail">e-mail</a>. 
+<a href="https://github.com/Filipi-Soares/almes/blob/main/core.md#agent">**Agent**</a>
 
 
-<a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#dataset">**Dataset**</a>
+<a href="https://github.com/Filipi-Soares/almes/blob/main/core.md#name">name</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/core.md#homepage">homepage</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/core.md#e-mail">e-mail</a>. 
 
 
-<a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#productGroup">productGroup</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#productType">productType</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#theme">theme</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#accrualPeriodicity">accrualPeriodicity</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#referenceQuantity">referenceQuantity</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#location">location</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#startDate">startDate</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#endDate">endDate</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#accessURL">accessURL</a>;  <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#statisticalMethod">statisticalMethod</a>.
+<a href="https://github.com/Filipi-Soares/almes/blob/main/core.md#dataset">**Dataset**</a>
+
+
+<a href="https://github.com/Filipi-Soares/almes/blob/main/core.md#productGroup">productGroup</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/core.md#productType">productType</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/core.md#theme">theme</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/core.md#accrualPeriodicity">accrualPeriodicity</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/core.md#referenceQuantity">referenceQuantity</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/core.md#location">location</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/core.md#startDate">startDate</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/core.md#endDate">endDate</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/core.md#accessURL">accessURL</a>;  <a href="https://github.com/Filipi-Soares/almes/blob/main/core.md#statisticalMethod">statisticalMethod</a>.
 
 
 
@@ -133,7 +133,7 @@ Namespaces and prefixes used in normative parts of this recommendation.
 | Type of Term  | Property  |
 | URI  | http://xmlns.com/foaf/0.1/#term_name |
 | Definition  | A name for some thing.  |
-| subproperty of | <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#creator">dc:creator</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#publisher">dc:publisher</a> | 
+| subproperty of | <a href="https://github.com/Filipi-Soares/almes/blob/main/core.md#creator">dc:creator</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/core.md#publisher">dc:publisher</a> | 
 
 ### homepage
 | Term name | foaf:homepage |
@@ -141,7 +141,7 @@ Namespaces and prefixes used in normative parts of this recommendation.
 | Type of Term  | Property  |
 | URI  | http://xmlns.com/foaf/0.1/#term_homepage |
 | Definition  | A homepage for some thing.  |
-| subproperty of | <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#creator">dc:creator</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#publisher">dc:publisher</a> | 
+| subproperty of | <a href="https://github.com/Filipi-Soares/almes/blob/main/core.md#creator">dc:creator</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/core.md#publisher">dc:publisher</a> | 
 
 ### e-mail
 | Term name | foaf:mbox |
@@ -149,7 +149,7 @@ Namespaces and prefixes used in normative parts of this recommendation.
 | Type of Term  | Property  |
 | URI  | http://xmlns.com/foaf/0.1/#term_mbox |
 | Definition  | A personal mailbox, ie. an Internet mailbox associated with exactly one owner, the first owner of this mailbox. This is a 'static inverse functional property', in that there is (across time and change) at most one individual that ever has any particular value for foaf:mbox.  |
-| subproperty of | <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#creator">dc:creator</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#publisher">dc:publisher</a> |  
+| subproperty of | <a href="https://github.com/Filipi-Soares/almes/blob/main/core.md#creator">dc:creator</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/core.md#publisher">dc:publisher</a> |  
 
 
 ## Dataset
