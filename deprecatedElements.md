@@ -9,3 +9,10 @@
 | Status | deprecated |
 | Date deprecated | 2023-06-13 |
 | Replaced by | [productType](http://purl.org/almescore/productType) |
+
+### references
+| Term name | dct:references |
+| ------------- | ------------- |
+| Type of Term  | Property  |
+| URI  | http://purl.org/dc/terms/references |
+| Comment | Deprecated in Almes Core schema (still in use in Dublin Core). Replaced by <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#accessURL">dcat:accessURL</a>. |
