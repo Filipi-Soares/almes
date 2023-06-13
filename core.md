@@ -13,7 +13,7 @@
 
 
 # Normative namespaces
-Namespaces and prefixes used in normative parts of this recommendation are shown in the following table.
+Namespaces and prefixes used in normative parts of this recommendation.
 | Prefix | Namespace |
 | ------------- | ------------- |
 | alm | http://purl.org/almescore |
