@@ -53,14 +53,14 @@ Namespaces and prefixes used in normative parts of this recommendation.
 
 ### title
 | Term name | dc:title |
-| --- | --- |
+| ------------- | ------------- |
 | Type of Term  | Property  |
 | URI  | http://purl.org/dc/elements/1.1/title  |
 | Definition | A name given to the resource.   |
 
 ### description
 | Term name | dct:description |
-| --- | --- |
+| ------------- | ------------- |
 | URI  | http://purl.org/dc/terms/description |
 | Definition | 	Description may include but is not limited to: an abstract, a table of contents, a graphical representation, or a free-text account of the resource. |
 
