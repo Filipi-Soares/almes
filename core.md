@@ -195,20 +195,6 @@ Namespaces and prefixes used in normative parts of this recommendation.
 | URI  | https://www.w3.org/ns/dcat#accessURL |
 | Definition | A URL of the resource that gives access to a distribution of the dataset. E.g. landing page, feed, SPARQL endpoint. |
 
-### dataType
-| Term name | sdo:dataType |
-| ------------- | ------------- |
-| Type of Term  | Property  |
-| URI  | https://schema.org/DataType |
-| Comment | Deprecated in Almes Core schema (still in use in Schema.org). |
-
-### frequency
-| Term name | sdo:frequency |
-| ------------- | ------------- |
-| Type of Term  | Property  |
-| URI  | https://schema.org/frequency |
-| Comment | Deprecated in Almes Core schema (still in use in Schema.org). Replaced by <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#accrualPeriodicity">dct:accrualPeriodicity</a>. |
-
 ### accrualPeriodicity
 | Term name | dct:accrualPeriodicity |
 | ------------- | ------------- |
