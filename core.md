@@ -24,7 +24,7 @@ Namespaces and prefixes used in normative parts of this recommendation.
 | foaf| http://xmlns.com/foaf/0.1/ |
 
 # Index of Terms
-<a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#resource">Resource (Class)</a>
+[![Resource](https://placehold.it/120x30/00ff00/000000?text=Resource)]([https://example.com/green](https://github.com/Filipi-Soares/almes/blob/main/README.md#resource))
 
 
 <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#title">title (property)</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#description">description (property)</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#publisher">publisher (property)</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#creator">creator (property)</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#modified">modified (property)</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#modified">version (property)</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#language">language (property)</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#license">license (property)</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#rights">rights (property)</a>.
@@ -41,7 +41,7 @@ Namespaces and prefixes used in normative parts of this recommendation.
 <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#productGroup">productGroup (property)</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#product">product (property)</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#theme">theme (property)</a>. <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#accessURL">accessURL (property)</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#accrualPeriodicity">accrualPeriodicity (property)</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#referenceQuantity">referenceQuantity (property)</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#location">location (property)</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#startDate">startDate (property)</a>. <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#accessURL">accessURL (property)</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#endDate">endDate (property)</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#statisticalMethod">statisticalMethod (property)</a>; 
 
 
-[![Resource](https://placehold.it/120x30/00ff00/000000?text=Resource)]([https://example.com/green](https://github.com/Filipi-Soares/almes/blob/main/README.md#resource))
+
 
 
 
