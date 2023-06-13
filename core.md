@@ -1,5 +1,5 @@
 # Almes Core Reference Guide
-Preliminary repository for the Almes Core vocabulary
+
 | Property | Value |
 | ------------- | ------------- |
 | Title  | Agriculture and Livestock Metadata Elements Set (Almes Core)  |
