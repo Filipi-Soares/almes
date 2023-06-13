@@ -169,11 +169,11 @@ Namespaces and prefixes used in normative parts of this recommendation.
 | Comment | The best recommended practice is to use a controlled vocabulary. Example: grain, vegetables, meat. |
 | Broader Match | <a href="https://schema.org/ProductGroup">sdo:productGroup</a> |
 
-### product
-| Term name | alm:product |
+### productType
+| Term name | alm:productType |
 | ------------- | ------------- |
 | Type of Term  | Property  |
-| URI  | http://purl.org/almescore/product  |
+| URI  | http://purl.org/almescore/productType  |
 | Definition | Name of the agricultural or livestock product type targeted by the commercial operation.                                                    |
 | Comment | The best recommended practice is to use a controlled vocabulary. Example: soy, corn, fed cattle. |
 | Broader Match | <a href="https://schema.org/Product">sdo:product</a> |
