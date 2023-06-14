@@ -171,7 +171,7 @@ Namespaces and prefixes used in normative parts of this recommendation.
 | Term name | alm:productGroup |
 | ------------- | ------------- |
 | Type of Term  | Property  |
-| URI  | http://purl.org/almescore/productGroup  |
+| URI  | http://purl.org/almescore/core#productGroup  |
 | Definition  | A ProductGroup represents a group of products resulting from agriculture or livestock activities that vary only in certain well-described ways, being aggregated according to common biological traits.  |
 | Comment | The best recommended practice is to use a controlled vocabulary. Example: grain, vegetables, meat. |
 | Broader Match | <a href="https://schema.org/ProductGroup">sdo:productGroup</a> |
