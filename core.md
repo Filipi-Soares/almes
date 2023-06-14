@@ -28,7 +28,7 @@ Namespaces and prefixes used in normative parts of this recommendation.
 | ------------- | ------------- |
 | Agrovoc | http://aims.fao.org/aos/agrovoc |
 | Agrotermos  | https://sistemas.sede.embrapa.br/agrotermos/  |
-| Almes Core Ontology  | http://purl.org/almescore/onto# |
+| Almes Core Product Type Ontology  | http://purl.org/almescore/onto# |
 
 # Index of Terms
 <a href="https://github.com/Filipi-Soares/almes/blob/main/core.md#resource">**Resource**</a>
