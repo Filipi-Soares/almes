@@ -24,7 +24,7 @@ Namespaces and prefixes used in normative parts of this recommendation.
 | foaf| http://xmlns.com/foaf/0.1/ |
 
 # Vocabulary Encoding Schemes #
-| name | Namespace |
+| Name | Namespace |
 | ------------- | ------------- |
 | Agrovoc | http://aims.fao.org/aos/agrovoc |
 | Agrotermos  | https://sistemas.sede.embrapa.br/agrotermos/  |
