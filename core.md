@@ -189,7 +189,7 @@ Namespaces and prefixes used in normative parts of this recommendation.
 | Term name | alm:theme |
 | ------------- | ------------- |
 | Type of Term  | Property  |
-| URI  |  http://purl.org/almescore/theme |
+| URI  | http://purl.org/almescore/core#theme |
 | Definition | Indicates the main theme investigated in the economic statistical operation. |
 | Comment | The best recommended practice is to use a controlled vocabulary. Example: agriculture, livestock, forest production, fishing, aquaculture. |
 | References | https://metadados.ibge.gov.br/consulta/estatisticos/temas |
@@ -243,6 +243,6 @@ Namespaces and prefixes used in normative parts of this recommendation.
 | Term name | alm:statisticalMethod |
 | ------------- | ------------- |
 | Type of Term  | Property  |
-| URI  | http://purl.org/almescore/statisticalMethod |
+| URI  | http://purl.org/almescore/core#statisticalMethod |
 | Definition | Summary of the methods used for the process of obtaining data for the production of the series. |
 | Comment| Recommended best practice is to indicate the published resource URI in an open access format. |
