@@ -2,9 +2,9 @@ This document contains the most up-to-date version of the Agriculture and Livest
 
 Access the human-readble version of the schema: http://purl.org/almescore
 
-Machine-readable SHACL file: https://github.com/Filipi-Soares/almes/blob/almesCoreSHACL/shacl.ttl
-
-Machine-readable RDF/XML file: https://github.com/Filipi-Soares/almes/blob/AlmesCoreRdf/rdf.xml
+Serializatons:
+SHACL: https://github.com/Filipi-Soares/almes/blob/almesCoreSHACL/shacl.ttl
+RDF/XML: https://github.com/Filipi-Soares/almes/blob/AlmesCoreRdf/rdf.xml
 
 Recommended citation: 
 
