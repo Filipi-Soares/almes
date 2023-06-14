@@ -4,8 +4,8 @@
 | ------------- | ------------- |
 | Title  | Agriculture and Livestock Metadata Elements Set (Almes Core)  |
 | Creator  | C4AI AgriBio Data Managment Team  |
-| Identifier  | http://purl.org/almescore |
-| Latest Version | http://purl.org/almescore |
+| Identifier  | http://purl.org/almescore/core# |
+| Latest Version | http://purl.org/almescore/core# |
 | Version History | https://github.com/Filipi-Soares/almes/blob/main/deprecatedElements.md |
 | Last updated | 2023-06-13 |
 | Document Status | valid |
