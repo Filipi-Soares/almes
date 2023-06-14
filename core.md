@@ -18,7 +18,7 @@ Namespaces and prefixes used in normative parts of this recommendation.
 | ------------- | ------------- |
 | alm | http://purl.org/almescore/core# |
 | dc  | http://purl.org/dc/elements/1.1/  |
-| sdo  | https://schema.org/docs/schemas.html  |
+| sdo  | https://schema.org/  |
 | dcat | http://www.w3.org/ns/dcat# |
 | dct | http://purl.org/dc/terms/ |
 | foaf| http://xmlns.com/foaf/0.1/ |
