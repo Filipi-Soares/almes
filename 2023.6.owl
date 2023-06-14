@@ -14,7 +14,7 @@
     <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
     <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
     <Prefix name="skos" IRI="http://www.w3.org/2004/02/skos/core#"/>
-    <Prefix name="almes" IRI="http://purl.org/almescore/"/>
+    <Prefix name="alm" IRI="http://purl.org/almescore/core#"/>
 	
     <Import>http://purl.org/dc/terms/Frequency</Import>
     <Import>http://purl.org/almescore/onto#</Import>
