@@ -263,7 +263,7 @@ Namespaces and prefixes used in normative parts of this recommendation.
 | Term name | sdo:currency |
 | ------------- | ------------- |
 | Type of Term  | Property  |
-| URI  | https://schema.org/price |
+| URI  | https://schema.org/currency |
 | Definition | The currency in which the monetary amount is expressed. |
 | Comment | Use standard formats: ISO 4217 currency format, e.g. "USD"; Ticker symbol for cryptocurrencies, e.g. "BTC"; well known names for Local Exchange Trading Systems (LETS) and other currency types, e.g. "Ithaca HOUR". |
 
