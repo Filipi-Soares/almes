@@ -52,7 +52,7 @@
 | URI  | https://schema.org/startDate |
 | Status | deprecated |
 | Date deprecated | 2023-07-12 |
-| Replaced by | <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#accrualPeriodicity">dct:accrualPeriodicity</a> |
+| Replaced by | <a href="https://github.com/Filipi-Soares/almes/blob/main/core.md#date">dct:accrualPeriodicity</a> |
 | Comment | Deprecated only in the Almes Core schema, but still in use in Schema.org |
 
 ### endDate
@@ -62,5 +62,5 @@
 | URI  | https://schema.org/endDate |
 | Status | deprecated |
 | Date deprecated | 2023-07-12 |
-| Replaced by | <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#accrualPeriodicity">dct:accrualPeriodicity</a> |
+| Replaced by | <a href="https://github.com/Filipi-Soares/almes/blob/main/core.md#date">dct:accrualPeriodicity</a> |
 | Comment | Deprecated only in the Almes Core schema, but still in use in Schema.org |
