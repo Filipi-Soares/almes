@@ -54,6 +54,8 @@ Namespaces and prefixes used in normative parts of this recommendation.
 | Term name | dcat:Resource |
 | ------------- | ------------- |
 | Type of Term  | Class  |
+| Label (EN) | Resource  |
+| Label (PT-BR) | Recurso  |
 | URI  | https://www.w3.org/ns/dcat#Resource  |
 | Definition  | Resource published or curated by a single agent.  |
 
@@ -61,12 +63,17 @@ Namespaces and prefixes used in normative parts of this recommendation.
 | Term name | dc:title |
 | ------------- | ------------- |
 | Type of Term  | Property  |
+| Label (EN) | title  |
+| Label (PT-BR) | título  |
 | URI  | http://purl.org/dc/elements/1.1/title  |
 | Definition | A name given to the resource.   |
 
 ### description
 | Term name | dct:description |
 | ------------- | ------------- |
+| Type of Term  | Property  |
+| Label (EN) | description  |
+| Label (PT-BR) | descrição  |
 | URI  | http://purl.org/dc/terms/description |
 | Definition | 	Description may include but is not limited to: an abstract, a table of contents, a graphical representation, or a free-text account of the resource. |
 
@@ -74,6 +81,8 @@ Namespaces and prefixes used in normative parts of this recommendation.
 | Term name | dc:publisher |
 | ------------- | ------------- |
 | Type of Term  | Property  |
+| Label (EN) | publisher  |
+| Label (PT-BR) | editor  |
 | URI  | http://purl.org/dc/elements/1.1/publisher  |
 | Definition | An entity responsible for making the resource available. |
 | Comment | Examples of a Publisher include a person, an organization, or a service. Typically, the name of a Publisher should be used to indicate the entity. |
@@ -82,6 +91,8 @@ Namespaces and prefixes used in normative parts of this recommendation.
 | Term name | dc:creator |
 | ------------- | ------------- |
 | Type of Term  | Property  |
+| Label (EN) | creator  |
+| Label (PT-BR) | criador  |
 | URI  | http://purl.org/dc/elements/1.1/creator  |
 | Definition | 	An entity primarily responsible for making the resource. |
 | Comments| Examples of a Creator include a person, an organization, or a service. Typically, the name of a Creator should be used to indicate the entity. |
@@ -90,6 +101,8 @@ Namespaces and prefixes used in normative parts of this recommendation.
 | Term name | dct:modified |
 | ------------- | ------------- |
 | Type of Term  | Property  |
+| Label (EN) | modified  |
+| Label (PT-BR) | última atualização  |
 | URI  | http://purl.org/dc/terms/modified |
 | Definition | Date on which the resource was changed. |
 | Comment | Recommended practice is to describe the date, date/time, or period of time as recommended for the property Date, of which this is a subproperty. |
@@ -98,6 +111,8 @@ Namespaces and prefixes used in normative parts of this recommendation.
 | Term name | dct:hasVersion |
 | ------------- | ------------- |
 | Type of Term  | Property  |
+| Label (EN) | version  |
+| Label (PT-BR) | versão  |
 | URI  | http://purl.org/dc/terms/hasVersion |
 | Definition | A related resource that is a version, edition, or adaptation of the described resource. |
 | Comment | Changes in version imply substantive changes in content rather than differences in format. This property is intended to be used with non-literal values. This property is an inverse property of Is Version Of. |
@@ -106,6 +121,8 @@ Namespaces and prefixes used in normative parts of this recommendation.
 | Term name | dct:language |
 | ------------- | ------------- |
 | Type of Term  | Property  |
+| Label (EN) | language  |
+| Label (PT-BR) | idioma  |
 | URI  | http://purl.org/dc/terms/language  |
 | Definition | A language of the resource. |
 | Comment | Recommended practice is to use either a non-literal value representing a language from a controlled vocabulary such as ISO 639-2 or ISO 639-3, or a literal value consisting of an IETF Best Current Practice 47 <a href="https://www.rfc-editor.org/info/bcp47">(IETF-BCP47)</a> language tag. |
@@ -114,6 +131,8 @@ Namespaces and prefixes used in normative parts of this recommendation.
 | Term name | dct:license |
 | ------------- | ------------- |
 | Type of Term  | Property  |
+| Label (EN) | license  |
+| Label (PT-BR) | licença de uso  |
 | URI  | http://purl.org/dc/terms/license |
 | Definition | A legal document giving official permission to do something with the resource. |
 | Comment | Recommended practice is to identify the license document with a URI. If this is not possible or feasible, a literal value that identifies the license may be provided. |
@@ -122,6 +141,8 @@ Namespaces and prefixes used in normative parts of this recommendation.
 | Term name | dc:rights |
 | ------------- | ------------- |
 | Type of Term  | Property  |
+| Label (EN) | rights  |
+| Label (PT-BR) | direitos  |
 | URI  | http://purl.org/dc/elements/1.1/rights |
 | Definition | Information about rights held in and over the resource. |
 | Comment | Typically, rights information includes a statement about various property rights associated with the resource, including intellectual property rights. |
@@ -130,6 +151,8 @@ Namespaces and prefixes used in normative parts of this recommendation.
 | Term name | foaf:Agent |
 | ------------- | ------------- |
 | Type of Term  | Class  |
+| Label (EN) | Agent  |
+| Label (PT-BR) | Agente  |
 | URI  | http://xmlns.com/foaf/0.1/#term_Agent |
 | Definition  | An agent (eg. person, group, software or physical artifact).  |
  
@@ -137,6 +160,8 @@ Namespaces and prefixes used in normative parts of this recommendation.
 | Term name | foaf:name |
 | ------------- | ------------- |
 | Type of Term  | Property  |
+| Label (EN) | name  |
+| Label (PT-BR) | nome  |
 | URI  | http://xmlns.com/foaf/0.1/#term_name |
 | Definition  | A name for some thing.  |
 | subproperty of | <a href="https://github.com/Filipi-Soares/almes/blob/main/core.md#creator">dc:creator</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/core.md#publisher">dc:publisher</a> | 
@@ -145,6 +170,8 @@ Namespaces and prefixes used in normative parts of this recommendation.
 | Term name | foaf:homepage |
 | ------------- | ------------- |
 | Type of Term  | Property  |
+| Label (EN) | homepage  |
+| Label (PT-BR) | homepage  |
 | URI  | http://xmlns.com/foaf/0.1/#term_homepage |
 | Definition  | A homepage for some thing.  |
 | subproperty of | <a href="https://github.com/Filipi-Soares/almes/blob/main/core.md#creator">dc:creator</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/core.md#publisher">dc:publisher</a> | 
@@ -153,6 +180,8 @@ Namespaces and prefixes used in normative parts of this recommendation.
 | Term name | foaf:mbox |
 | ------------- | ------------- |
 | Type of Term  | Property  |
+| Label (EN) | e-mail  |
+| Label (PT-BR) | e-mail  |
 | URI  | http://xmlns.com/foaf/0.1/#term_mbox |
 | Definition  | A personal mailbox, ie. an Internet mailbox associated with exactly one owner, the first owner of this mailbox. This is a 'static inverse functional property', in that there is (across time and change) at most one individual that ever has any particular value for foaf:mbox.  |
 | subproperty of | <a href="https://github.com/Filipi-Soares/almes/blob/main/core.md#creator">dc:creator</a>; <a href="https://github.com/Filipi-Soares/almes/blob/main/core.md#publisher">dc:publisher</a> |  
@@ -162,6 +191,8 @@ Namespaces and prefixes used in normative parts of this recommendation.
 | Term name | dcat:Dataset |
 | ------------- | ------------- |
 | Type of Term  | Class  |
+| Label (EN) | Dataset  |
+| Label (PT-BR) | Banco de dados  |
 | URI  | https://www.w3.org/ns/dcat#Dataset |
 | Definition  | A collection of data, published or curated by a single agent, and available for access or download in one or more representations.  |
 
@@ -170,6 +201,8 @@ Namespaces and prefixes used in normative parts of this recommendation.
 | Term name | alm:productGroup |
 | ------------- | ------------- |
 | Type of Term  | Property  |
+| Label (EN) | product group  |
+| Label (PT-BR) | grupo do produto  |
 | URI  | http://purl.org/almescore/core#productGroup  |
 | Definition  | A ProductGroup represents a group of products resulting from agriculture or livestock activities that vary only in certain well-described ways, being aggregated according to common biological traits.  |
 | Comment | The best recommended practice is to use a controlled vocabulary. Example: grain, vegetables, meat. |
@@ -179,6 +212,8 @@ Namespaces and prefixes used in normative parts of this recommendation.
 | Term name | alm:productType |
 | ------------- | ------------- |
 | Type of Term  | Property  |
+| Label (EN) | product type  |
+| Label (PT-BR) | produto  |
 | URI  | http://purl.org/almescore/core#productType|
 | Definition | Name of the agricultural or livestock product type targeted by the commercial operation.                                                    |
 | Comment | The best recommended practice is to use a controlled vocabulary. Example: soy, corn, fed cattle. |
@@ -188,6 +223,8 @@ Namespaces and prefixes used in normative parts of this recommendation.
 | Term name | alm:theme |
 | ------------- | ------------- |
 | Type of Term  | Property  |
+| Label (EN) | theme  |
+| Label (PT-BR) | tema  |
 | URI  | http://purl.org/almescore/core#theme |
 | Definition | Indicates the main theme investigated in the economic statistical operation. |
 | Comment | The best recommended practice is to use a controlled vocabulary. Example: agriculture, livestock, forest production, fishing, aquaculture. |
@@ -198,6 +235,8 @@ Namespaces and prefixes used in normative parts of this recommendation.
 | Term name | dcat:accessURL |
 | ------------- | ------------- |
 | Type of Term  | Property  |
+| Label (EN) | access URL  |
+| Label (PT-BR) | disponível em  |
 | URI  | https://www.w3.org/ns/dcat#accessURL |
 | Definition | A URL of the resource that gives access to a distribution of the dataset. E.g. landing page, feed, SPARQL endpoint. |
 
@@ -205,6 +244,8 @@ Namespaces and prefixes used in normative parts of this recommendation.
 | Term name | dct:accrualPeriodicity |
 | ------------- | ------------- |
 | Type of Term  | Property  |
+| Label (EN) | periodicity  |
+| Label (PT-BR) | periodicidade  |
 | URI  | http://purl.org/dc/terms/accrualPeriodicity |
 | Definition | The frequency with which items are added to a collection. |
 | Comment | Recommended practice is to use a value from the Collection Description Frequency Vocabulary <a href="https://www.dublincore.org/specifications/dublin-core/collection-description/frequency/">(DCMI-COLLFREQ)</a>. 
@@ -213,6 +254,8 @@ Namespaces and prefixes used in normative parts of this recommendation.
 | Term name | sdo:referenceQuantity |
 | ------------- | ------------- |
 | Type of Term  | Property  |
+| Label (EN) | reference quantity  |
+| Label (PT-BR) | quantidade de referência  |
 | URI  | https://schema.org/referenceQuantity |
 | Definition | The reference quantity for which a certain price applies, e.g. 1 EUR per 4 kWh of electricity. This property is a replacement for unitOfMeasurement for the advanced cases where the price does not relate to a standard unit. |
 
