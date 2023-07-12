@@ -120,7 +120,7 @@ Namespaces and prefixes used in normative parts of this recommendation.
 | Comment | Recommended practice is to identify the license document with a URI. If this is not possible or feasible, a literal value that identifies the license may be provided. |
 
 ### rights
-| Term name | dct:rights |
+| Term name | dc:rights |
 | ------------- | ------------- |
 | Type of Term  | Property  |
 | URI  | http://purl.org/dc/elements/1.1/rights |
@@ -232,3 +232,19 @@ Namespaces and prefixes used in normative parts of this recommendation.
 | URI  | http://purl.org/almescore/core#statisticalMethod |
 | Definition | Summary of the methods used for the process of obtaining data for the production of the series. |
 | Comment| Recommended best practice is to indicate the published resource URI in an open access format. |
+
+### date
+| Term name | dc:date |
+| ------------- | ------------- |
+| Type of Term  | Property  |
+| URI  | http://purl.org/dc/elements/1.1/date  |
+| Definition | A point or period of time associated with an event in the lifecycle of the resource. |
+| Comment | Date may be used to express temporal information at any level of granularity. Recommended practice is to express the date, date/time, or period of time according to ISO 8601-1 [ISO 8601-1] or a published profile of the ISO standard, such as the W3C Note on Date and Time Formats [W3CDTF] or the Extended Date/Time Format Specification [EDTF]. If the full date is unknown, month and year (YYYY-MM) or just year (YYYY) may be used. Date ranges may be specified using ISO 8601 period of time specification in which start and end dates are separated by a '/' (slash) character. Either the start or end date may be missing. |
+
+### price
+| Term name | sdo:price |
+| ------------- | ------------- |
+| Type of Term  | Property  |
+| URI  | https://schema.org/price |
+| Definition | The offer price of a product, or of a price component when attached to PriceSpecification and its subtypes. |
+
