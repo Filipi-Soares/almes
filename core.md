@@ -232,6 +232,16 @@ Namespaces and prefixes used in normative parts of this recommendation.
 | Definition | Summary of the methods used for the process of obtaining data for the production of the series. |
 | Comment| Recommended best practice is to indicate the published resource URI in an open access format. |
 
+### descriptiveStatistics
+| Term name | alm:descriptiveStatistics |
+| ------------- | ------------- |
+| Type of Term  | Property  |
+| URI  | http://purl.org/almescore/core#descriptiveStatistics |
+| Definition |  |
+| Comment|  |
+| Related Match | <a href="https://rdf-vocabulary.ddialliance.org/discovery.html#descriptivestatistics">ddi:DescriptiveStatistics</a> |
+
+
 ### date
 | Term name | dc:date |
 | ------------- | ------------- |
