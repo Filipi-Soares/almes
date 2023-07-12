@@ -263,6 +263,8 @@ Namespaces and prefixes used in normative parts of this recommendation.
 | Term name | sdo:location |
 | ------------- | ------------- |
 | Type of Term  | Property  |
+| Label (EN) | location  |
+| Label (PT-BR) | localização  |
 | URI  | https://schema.org/referenceQuantity |
 | Definition | The location of, for example, where an event is happening, where an organization is located, or where an action takes place. |
 | Comment | Recommended practice is to use a value from a controlled vocabulary such as <a href="https://www.geonames.org/">Geonames.org</a>. 
@@ -271,6 +273,8 @@ Namespaces and prefixes used in normative parts of this recommendation.
 | Term name | alm:statisticalMethod |
 | ------------- | ------------- |
 | Type of Term  | Property  |
+| Label (EN) | statistical method  |
+| Label (PT-BR) | método estatístico  |
 | URI  | http://purl.org/almescore/core#statisticalMethod |
 | Definition | Summary of the methods used for the process of obtaining data for the production of the series. |
 | Comment| Recommended best practice is to indicate the published resource URI in an open access format. |
@@ -279,6 +283,8 @@ Namespaces and prefixes used in normative parts of this recommendation.
 | Term name | alm:descriptiveStatistics |
 | ------------- | ------------- |
 | Type of Term  | Property  |
+| Label (EN) | descriptive statistics  |
+| Label (PT-BR) | estatística descritiva  |
 | URI  | http://purl.org/almescore/core#descriptiveStatistics |
 | Definition |  |
 | Comment|  |
@@ -289,6 +295,8 @@ Namespaces and prefixes used in normative parts of this recommendation.
 | Term name | dc:date |
 | ------------- | ------------- |
 | Type of Term  | Property  |
+| Label (EN) | date  |
+| Label (PT-BR) | data  |
 | URI  | http://purl.org/dc/elements/1.1/date  |
 | Definition | A point or period of time associated with an event in the lifecycle of the resource. |
 | Comment | Date may be used to express temporal information at any level of granularity. Recommended practice is to express the date, date/time, or period of time according to ISO 8601-1 [ISO 8601-1] or a published profile of the ISO standard, such as the W3C Note on Date and Time Formats [W3CDTF] or the Extended Date/Time Format Specification [EDTF]. If the full date is unknown, month and year (YYYY-MM) or just year (YYYY) may be used. Date ranges may be specified using ISO 8601 period of time specification in which start and end dates are separated by a '/' (slash) character. Either the start or end date may be missing. |
@@ -297,6 +305,8 @@ Namespaces and prefixes used in normative parts of this recommendation.
 | Term name | sdo:price |
 | ------------- | ------------- |
 | Type of Term  | Property  |
+| Label (EN) | price  |
+| Label (PT-BR) | preço  |
 | URI  | https://schema.org/price |
 | Definition | The offer price of a product. |
 | Comment | The price should be indicated as a float number with two decimal digits. |
@@ -306,6 +316,8 @@ Namespaces and prefixes used in normative parts of this recommendation.
 | Term name | sdo:currency |
 | ------------- | ------------- |
 | Type of Term  | Property  |
+| Label (EN) | currency  |
+| Label (PT-BR) | moeda  |
 | URI  | https://schema.org/currency |
 | Definition | The currency in which the monetary amount is expressed. |
 | Comment | Use standard formats: ISO 4217 currency format, e.g. "USD"; Ticker symbol for cryptocurrencies, e.g. "BTC"; well known names for Local Exchange Trading Systems (LETS) and other currency types, e.g. "Ithaca HOUR". |
