@@ -225,20 +225,6 @@ Namespaces and prefixes used in normative parts of this recommendation.
 | Definition | The location of, for example, where an event is happening, where an organization is located, or where an action takes place. |
 | Comment | Recommended practice is to use a value from a controlled vocabulary such as <a href="https://www.geonames.org/">Geonames.org</a>. 
 
-### startDate
-| Term name | sdo:startDate |
-| ------------- | ------------- |
-| Type of Term  | Property  |
-| URI  | https://schema.org/startDate |
-| Definition | The start date and time of the item (in ISO 8601 date format). |
-
-### endDate
-| Term name | sdo:endDate |
-| ------------- | ------------- |
-| Type of Term  | Property  |
-| URI  | https://schema.org/endDate |
-| Definition | The end date and time of the item (in ISO 8601 date format). |
-
 ### statisticalMethod
 | Term name | alm:statisticalMethod |
 | ------------- | ------------- |
