@@ -43,4 +43,24 @@
 | Status | deprecated |
 | Date deprecated | 2023-06-13 |
 | Replaced by | <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#accrualPeriodicity">dct:accrualPeriodicity</a> |
-| Comment | Deprecated only in the Almes Core schema, but still in use in Schema.org). 
+| Comment | Deprecated only in the Almes Core schema, but still in use in Schema.org. 
+
+### startDate
+| Term name | sdo:startDate |
+| ------------- | ------------- |
+| Type of Term  | Property  |
+| URI  | https://schema.org/startDate |
+| Status | deprecated |
+| Date deprecated | 2023-07-12 |
+| Replaced by | <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#accrualPeriodicity">dct:accrualPeriodicity</a> |
+| Comment | Deprecated only in the Almes Core schema, but still in use in Schema.org |
+
+### endDate
+| Term name | sdo:endDate |
+| ------------- | ------------- |
+| Type of Term  | Property  |
+| URI  | https://schema.org/endDate |
+| Status | deprecated |
+| Date deprecated | 2023-07-12 |
+| Replaced by | <a href="https://github.com/Filipi-Soares/almes/blob/main/README.md#accrualPeriodicity">dct:accrualPeriodicity</a> |
+| Comment | Deprecated only in the Almes Core schema, but still in use in Schema.org |
