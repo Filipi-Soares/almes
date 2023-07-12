@@ -14,7 +14,7 @@
 | URI  | http://purl.org/dc/terms/references |
 | Status | deprecated |
 | Date deprecated | 2023-06-13 |
-| Replaced by | [dcat:accessURL](http://purl.org/almescore/productType](https://github.com/Filipi-Soares/almes/blob/main/README.md#accessURL) |
+| Replaced by | [dcat:accessURL](https://github.com/Filipi-Soares/almes/blob/main/README.md#accessURL) |
 | Comment | Deprecated only in the Almes Core schema, but still in use in the Dublin Core. |
 
 ### verbatimName
