@@ -245,5 +245,15 @@ Namespaces and prefixes used in normative parts of this recommendation.
 | ------------- | ------------- |
 | Type of Term  | Property  |
 | URI  | https://schema.org/price |
-| Definition | The offer price of a product, or of a price component when attached to PriceSpecification and its subtypes. |
+| Definition | The offer price of a product. |
+| Comment | The price should be indicated as a float number with two decimal digits. |
+
+
+### currency
+| Term name | sdo:currency |
+| ------------- | ------------- |
+| Type of Term  | Property  |
+| URI  | https://schema.org/price |
+| Definition | The currency in which the monetary amount is expressed. |
+| Comment | Use standard formats: ISO 4217 currency format, e.g. "USD"; Ticker symbol for cryptocurrencies, e.g. "BTC"; well known names for Local Exchange Trading Systems (LETS) and other currency types, e.g. "Ithaca HOUR". |
 
