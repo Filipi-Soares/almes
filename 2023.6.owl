@@ -24,6 +24,9 @@
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_10097"/>
     </Declaration>
     <Declaration>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_10195"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_1038"/>
     </Declaration>
     <Declaration>
@@ -31,6 +34,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_10677"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_1071"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_10722"/>
@@ -43,6 +49,12 @@
     </Declaration>
     <Declaration>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_11124"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_11131"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_11392"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_1147"/>
@@ -58,6 +70,15 @@
     </Declaration>
     <Declaration>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_12358"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_12367"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_12487"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_12920"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_12934"/>
@@ -87,16 +108,31 @@
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_1423"/>
     </Declaration>
     <Declaration>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_14386"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_14477"/>
     </Declaration>
     <Declaration>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_14727"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_14729"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_1473"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_1474"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_14791"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_15277"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_15685"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_15742"/>
@@ -111,7 +147,13 @@
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_16080"/>
     </Declaration>
     <Declaration>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_1641"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_16477"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_16508"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_1720"/>
@@ -168,7 +210,13 @@
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_25490"/>
     </Declaration>
     <Declaration>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_25495"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_25499"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_25507"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_25511"/>
@@ -264,6 +312,9 @@
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_3354"/>
     </Declaration>
     <Declaration>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_3359"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_33708"/>
     </Declaration>
     <Declaration>
@@ -274,9 +325,6 @@
     </Declaration>
     <Declaration>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_3376"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="http://aims.fao.org/aos/agrovoc/c_35743"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_36410"/>
@@ -291,10 +339,16 @@
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_386"/>
     </Declaration>
     <Declaration>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_3881"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_3935"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_3937"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_4065"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_4070"/>
@@ -307,6 +361,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_4256"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_4259"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_4277bbe4"/>
@@ -342,6 +399,9 @@
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_4827"/>
     </Declaration>
     <Declaration>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_4838"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_49904"/>
     </Declaration>
     <Declaration>
@@ -360,7 +420,16 @@
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_5287"/>
     </Declaration>
     <Declaration>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_5328"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_5330"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_5334"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_541"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_5435"/>
@@ -373,6 +442,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_5548"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_5638"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_566"/>
@@ -388,6 +460,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_572"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_5c9e76bc"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_6211"/>
@@ -426,7 +501,13 @@
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_6729"/>
     </Declaration>
     <Declaration>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_6ffce1ab"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_703"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_7086"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_7215"/>
@@ -450,7 +531,19 @@
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_731"/>
     </Declaration>
     <Declaration>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_7413"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_7498"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_7550"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_7601"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_7655"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_7712"/>
@@ -460,6 +553,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_7805"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_785"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_7974"/>
@@ -487,6 +583,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_8376"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_8421"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_8998"/>
@@ -549,13 +648,25 @@
         <Class IRI="#Plant"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#acaiverdadeiro"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#algodoeiro"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#amendoadeouricuri"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#amendoamacauba"/>
     </Declaration>
     <Declaration>
         <Class IRI="#buriti"/>
     </Declaration>
     <Declaration>
         <Class IRI="#buritizeiro"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#cacau"/>
     </Declaration>
     <Declaration>
         <Class IRI="#cafeeiro"/>
@@ -588,6 +699,9 @@
         <Class IRI="#cocobabacu"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#copaiba"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#extratotomate"/>
     </Declaration>
     <Declaration>
@@ -598,6 +712,15 @@
     </Declaration>
     <Declaration>
         <Class IRI="#farinhademandioca"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#farinhamandiocaseca"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#farinhamandiocasecafina"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#farinhamandiocasecagrossa"/>
     </Declaration>
     <Declaration>
         <Class IRI="#favadanta"/>
@@ -612,10 +735,55 @@
         <Class IRI="#fibradecarnauba"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#floco"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#flocosdearrroz"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#flocosdemilho"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#genus"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#graviola"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#guarana"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#kingdom"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#licurizeiro"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#mamonabaga"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#massamandioca"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#maxixe"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#murumuru"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#murumuzeiro"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#oleoburiti"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#oleocopaiba"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#oleomurumuru"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#oleopequi"/>
     </Declaration>
     <Declaration>
         <Class IRI="#order"/>
@@ -627,6 +795,60 @@
         <Class IRI="#plant-basedby-product"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#pocerifero"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#poceríferocarnauba"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#polpaabacaxi"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#polpaacai"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#polpaacerola"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#polpaburiti"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#polpacacau"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#polpacaja"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#polpacaju"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#polpaceriguela"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#polpagoiaba"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#polpagraviola"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#polpajenipapo"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#polpamanga"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#polpamangaba"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#polpamaracuja"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#polpatamarindo"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#polpaumbu"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#produtoinnatura"/>
     </Declaration>
     <Declaration>
@@ -636,10 +858,19 @@
         <Class IRI="#scientificName"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#sorgogranifero"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#species"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#tamarindo"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#taxonRank"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#trigomelhorador"/>
     </Declaration>
     <Declaration>
         <Class IRI="/Algodão_em_caroço"/>
@@ -750,6 +981,12 @@
         <Class IRI="https://schema.org/http://purl.org/cld/freq/weekly"/>
     </Declaration>
     <Declaration>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/a110c0bb4ca441a61349d22192c6c583"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/a5f687d1a1807f3db19702b7d3b3e762"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/aaff761df6b25c60c9454df207578876"/>
     </Declaration>
     <Declaration>
@@ -760,6 +997,12 @@
     </Declaration>
     <Declaration>
         <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/c149abe6c0478ea98091733724878114"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/d624e0944dcd81829d9fcc3cc6611929"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/d673d8cbfcb7c2fd26ef7fbd8b69d709"/>
     </Declaration>
     <Declaration>
         <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/d7f09ae1740a8f52cefd25b0614965a1"/>
@@ -774,6 +1017,18 @@
         <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/e59b534a1f0b7dc770e1b7578597c131"/>
     </Declaration>
     <Declaration>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/f52a78f322bd8fcd941bf77dee403436"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/fe46183f893373aeed0a008b54d71148"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/0b251a6dcde4c65670b467527c2e12f3"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/1fabaa992654f45f4602e2f843463d50"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/28156081ffd59c01e5ad8c39d92d517b"/>
     </Declaration>
     <Declaration>
@@ -786,6 +1041,15 @@
         <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/473830ed2508bec0622e627d7f8f9604"/>
     </Declaration>
     <Declaration>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/5ca3ba89b5052310f056bffc84ad2359"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/5fe1bb8cb4a85f7794a509eebfc271a7"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/513d52ec57a549910bf9ced35be817a8"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/57285571deec8d096491da6f2bf7f2a6"/>
     </Declaration>
     <Declaration>
@@ -795,13 +1059,37 @@
         <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/5973875894f680f6171765597c0b302c"/>
     </Declaration>
     <Declaration>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/6c577516edc7117699a72d620847be73"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/6ccfec83258bc84dd914b82963ff15a0"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/6e5ec1f7742bbbfaccd577c26aa30bc5"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/6008d47fd5f283a8edab04ecaffc0f5e"/>
     </Declaration>
     <Declaration>
         <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/61ff626b059dc368d047e9c27ede8eae"/>
     </Declaration>
     <Declaration>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/62ebfd337d11d466ca77260d335c62e6"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/62646d1e38e30e9a1901a3cc69d75178"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/7a0149773ebabe1d82eb9830a577d16a"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/7e8c918aba66629d9ac84d99fd56b745"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/7794fc517590053809f758b7e16d87ed"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/8a1700ad77be316e1185a58a9df4663a"/>
     </Declaration>
     <Declaration>
         <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/845caef614387a897ba1f99e3a3558cd"/>
@@ -814,6 +1102,12 @@
     </Declaration>
     <Declaration>
         <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/93091ce029083f6c99e904493ae41517"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/936400f151ba2146a86cfcc342279f57"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/http://aims.fao.org/aos/agrovoc/c_13127"/>
     </Declaration>
     <Declaration>
         <Class IRI="https://www.geonames.org/12070312/piracicaba.html"/>
@@ -868,6 +1162,12 @@
     </Declaration>
     <Declaration>
         <ObjectProperty IRI="#hasTaxonRank"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#residueof"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#usedInTheProductionOf"/>
     </Declaration>
     <Declaration>
         <ObjectProperty IRI="/isNegotiatedBy"/>
@@ -983,8 +1283,23 @@
         </ObjectExactCardinality>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_019ee1cc"/>
+        <ObjectExactCardinality cardinality="1">
+            <ObjectProperty IRI="#residueof"/>
+            <Class IRI="http://aims.fao.org/aos/agrovoc/c_25511"/>
+        </ObjectExactCardinality>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_10097"/>
-        <Class IRI="http://aims.fao.org/aos/agrovoc/c_3376"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_15685"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_10097"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_8174"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_10195"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_8174"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_1038"/>
@@ -1013,8 +1328,12 @@
         </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_1071"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_785"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_10722"/>
-        <Class IRI="http://aims.fao.org/aos/agrovoc/c_8174"/>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/e59b534a1f0b7dc770e1b7578597c131"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_1104"/>
@@ -1034,6 +1353,21 @@
     <SubClassOf>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_11124"/>
         <Class IRI="http://purl.obolibrary.org/obo/NCBITaxon_3398"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_11131"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_1473"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_11131"/>
+        <ObjectExactCardinality cardinality="1">
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0001000"/>
+            <Class IRI="http://aims.fao.org/aos/agrovoc/c_8373"/>
+        </ObjectExactCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_11392"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_7974"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_1147"/>
@@ -1063,8 +1397,24 @@
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_331312"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_12367"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_7974"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_12487"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_3131"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_12920"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_8174"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_12934"/>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_8174"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_13120"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_15685"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_13120"/>
@@ -1127,7 +1477,19 @@
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_29989"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_14386"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_8373"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_14477"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_25490"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_14477"/>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/e59b534a1f0b7dc770e1b7578597c131"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_14727"/>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_8174"/>
     </SubClassOf>
     <SubClassOf>
@@ -1140,6 +1502,10 @@
             <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0003001"/>
             <Class IRI="http://aims.fao.org/aos/agrovoc/c_3937"/>
         </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_1473"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_29989"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_1474"/>
@@ -1155,6 +1521,14 @@
             <ObjectProperty IRI="http://purl.obolibrary.org/obo/BCO_0000087#memberoftaxon"/>
             <Class IRI="http://aims.fao.org/aos/agrovoc/c_1765"/>
         </ObjectExactCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_15277"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_3131"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_15685"/>
+        <Class IRI="#produtovegetalnatura"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_15742"/>
@@ -1187,6 +1561,10 @@
         </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_1641"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_3131"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_16477"/>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_7498"/>
     </SubClassOf>
@@ -1195,6 +1573,17 @@
         <ObjectExactCardinality cardinality="1">
             <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0001000"/>
             <Class IRI="https://agrovoc.fao.org/browse/agrovoc/en/page/c_7501"/>
+        </ObjectExactCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_16508"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_8170"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_16508"/>
+        <ObjectExactCardinality cardinality="1">
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0001000"/>
+            <Class IRI="http://aims.fao.org/aos/agrovoc/c_14477"/>
         </ObjectExactCardinality>
     </SubClassOf>
     <SubClassOf>
@@ -1291,6 +1680,10 @@
         <Class IRI="#produtovegetalnatura"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_25495"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_15685"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_25499"/>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_25490"/>
     </SubClassOf>
@@ -1300,6 +1693,14 @@
             <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0001000"/>
             <Class IRI="#canola"/>
         </ObjectExactCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_25507"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_25490"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_25511"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_1473"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_25511"/>
@@ -1355,7 +1756,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_28379"/>
-        <Class IRI="#produtovegetalnatura"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_7413"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_28379"/>
@@ -1468,7 +1869,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_331566"/>
-        <Class IRI="http://aims.fao.org/aos/agrovoc/c_8174"/>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/e59b534a1f0b7dc770e1b7578597c131"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_3335"/>
@@ -1486,6 +1887,10 @@
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_330269"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_3359"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_7655"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_33708"/>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_15807"/>
     </SubClassOf>
@@ -1500,10 +1905,6 @@
     <SubClassOf>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_3376"/>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_8174"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="http://aims.fao.org/aos/agrovoc/c_35743"/>
-        <Class IRI="#produtovegetalnatura"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_36410"/>
@@ -1536,6 +1937,10 @@
         </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_3881"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_6211"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_3935"/>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_1849"/>
     </SubClassOf>
@@ -1549,6 +1954,10 @@
             <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0003000"/>
             <Class IRI="http://aims.fao.org/aos/agrovoc/c_14729"/>
         </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_4065"/>
+        <Class IRI="#fibra"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_4070"/>
@@ -1572,6 +1981,10 @@
     <SubClassOf>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_4256"/>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_330209"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_4259"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_1641"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_4277bbe4"/>
@@ -1617,7 +2030,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_4647"/>
-        <Class IRI="http://aims.fao.org/aos/agrovoc/c_35743"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_7413"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_4826"/>
@@ -1626,6 +2039,10 @@
     <SubClassOf>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_4827"/>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_438"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_4838"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_1474"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_4993"/>
@@ -1676,8 +2093,20 @@
         </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://aims.fao.org/aos/agrovoc/c_5330"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_5328"/>
         <Class IRI="#Plant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_5330"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_5328"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_5334"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_15742"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_541"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_7655"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_5435"/>
@@ -1710,6 +2139,10 @@
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_29989"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_5638"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_7655"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_566"/>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_28379"/>
     </SubClassOf>
@@ -1731,6 +2164,10 @@
             <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0003000"/>
             <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/b8019c5cd743abe5e568bca34e1035a2"/>
         </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_5c9e76bc"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_3376"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_643"/>
@@ -1805,8 +2242,23 @@
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_6725"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_6ffce1ab"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_1473"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_6ffce1ab"/>
+        <ObjectExactCardinality cardinality="1">
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0001000"/>
+            <Class IRI="http://aims.fao.org/aos/agrovoc/c_12332"/>
+        </ObjectExactCardinality>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_703"/>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_15807"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_7086"/>
+        <Class IRI="#fibra"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_7215"/>
@@ -1865,8 +2317,24 @@
         </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_7413"/>
+        <Class IRI="#produtovegetalnatura"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_7498"/>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_29989"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_7550"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_1641"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_7601"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_1641"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_7655"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_3131"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_7712"/>
@@ -1888,6 +2356,10 @@
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_8174"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_785"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_1473"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_7974"/>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_3131"/>
     </SubClassOf>
@@ -1905,6 +2377,10 @@
     <SubClassOf>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_8170"/>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_29989"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_8170"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_5334"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_8171"/>
@@ -1938,6 +2414,10 @@
         </ObjectSomeValuesFrom>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_8421"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_3049"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_8998"/>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_8174"/>
     </SubClassOf>
@@ -1969,7 +2449,11 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_9813"/>
-        <Class IRI="http://aims.fao.org/aos/agrovoc/c_3376"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_15685"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_9813"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_8174"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/NCBITaxon_201011"/>
@@ -2035,8 +2519,12 @@
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_49904"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#acaiverdadeiro"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_5330"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#algodoeiro"/>
-        <Class IRI="#Plant"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_5328"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#algodoeiro"/>
@@ -2046,8 +2534,46 @@
         </ObjectExactCardinality>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#amendoadeouricuri"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_25490"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#amendoadeouricuri"/>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/aaff761df6b25c60c9454df207578876"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#amendoadeouricuri"/>
+        <ObjectExactCardinality cardinality="1">
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0003001"/>
+            <Class IRI="#licurizeiro"/>
+        </ObjectExactCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#amendoamacauba"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_25490"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#amendoamacauba"/>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/aaff761df6b25c60c9454df207578876"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#amendoamacauba"/>
+        <ObjectExactCardinality cardinality="1">
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0003001"/>
+            <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/513d52ec57a549910bf9ced35be817a8"/>
+        </ObjectExactCardinality>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#buriti"/>
-        <Class IRI="#produtovegetalnatura"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_25490"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#buriti"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_7974"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#buriti"/>
+        <Class IRI="#coco"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#buriti"/>
@@ -2061,12 +2587,16 @@
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_5330"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#cacau"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_7974"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#cafeeiro"/>
         <Class IRI="#Plant"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#canjicademilho"/>
-        <Class IRI="http://aims.fao.org/aos/agrovoc/c_29989"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_1473"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#canjicademilho"/>
@@ -2077,7 +2607,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#canola"/>
-        <Class IRI="#Plant"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_5328"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#castanhababacu"/>
@@ -2107,7 +2637,7 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#cheiroverde"/>
-        <Class IRI="http://aims.fao.org/aos/agrovoc/c_3376"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_8174"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#cheiroverde"/>
@@ -2150,6 +2680,10 @@
         </ObjectExactCardinality>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#copaiba"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_5328"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#extratotomate"/>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_29989"/>
     </SubClassOf>
@@ -2176,6 +2710,13 @@
         </ObjectExactCardinality>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#farelosoja"/>
+        <ObjectExactCardinality cardinality="1">
+            <ObjectProperty IRI="#residueof"/>
+            <Class IRI="http://aims.fao.org/aos/agrovoc/c_16508"/>
+        </ObjectExactCardinality>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#farinhademandioca"/>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_2988"/>
     </SubClassOf>
@@ -2187,8 +2728,20 @@
         </ObjectExactCardinality>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#farinhamandiocaseca"/>
+        <Class IRI="#farinhademandioca"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#farinhamandiocasecafina"/>
+        <Class IRI="#farinhamandiocaseca"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#farinhamandiocasecagrossa"/>
+        <Class IRI="#farinhamandiocaseca"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#favadanta"/>
-        <Class IRI="#produtovegetalnatura"/>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/e59b534a1f0b7dc770e1b7578597c131"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#feculademandioca"/>
@@ -2217,12 +2770,143 @@
         </ObjectExactCardinality>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#floco"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_1473"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#flocosdearrroz"/>
+        <Class IRI="#floco"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#flocosdearrroz"/>
+        <ObjectExactCardinality cardinality="1">
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0001000"/>
+            <Class IRI="http://aims.fao.org/aos/agrovoc/c_6599"/>
+        </ObjectExactCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#flocosdemilho"/>
+        <Class IRI="#floco"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#flocosdemilho"/>
+        <ObjectExactCardinality cardinality="1">
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0001000"/>
+            <Class IRI="http://aims.fao.org/aos/agrovoc/c_12332"/>
+        </ObjectExactCardinality>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#genus"/>
         <Class IRI="#family"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#graviola"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_7974"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#guarana"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_7413"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#kingdom"/>
         <Class IRI="#taxonRank"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#licurizeiro"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_5330"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#mamonabaga"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_25490"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#mamonabaga"/>
+        <ObjectExactCardinality cardinality="1">
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0003001"/>
+            <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/a5f687d1a1807f3db19702b7d3b3e762"/>
+        </ObjectExactCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#massamandioca"/>
+        <Class IRI="#plant-basedby-product"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#massamandioca"/>
+        <ObjectExactCardinality cardinality="1">
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0001000"/>
+            <Class IRI="http://aims.fao.org/aos/agrovoc/c_9649"/>
+        </ObjectExactCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#massamandioca"/>
+        <ObjectExactCardinality cardinality="1">
+            <ObjectProperty IRI="#residueof"/>
+            <Class IRI="#feculademandioca"/>
+        </ObjectExactCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#maxixe"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_8174"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#murumuru"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_25490"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#murumuru"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_7974"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#murumuru"/>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/aaff761df6b25c60c9454df207578876"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#murumuzeiro"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_5330"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#oleoburiti"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_8170"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#oleoburiti"/>
+        <ObjectExactCardinality cardinality="1">
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0001000"/>
+            <Class IRI="#buriti"/>
+        </ObjectExactCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#oleocopaiba"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_8170"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#oleocopaiba"/>
+        <ObjectExactCardinality cardinality="1">
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0001000"/>
+            <Class IRI="#copaiba"/>
+        </ObjectExactCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#oleomurumuru"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_8170"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#oleomurumuru"/>
+        <ObjectExactCardinality cardinality="1">
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0001000"/>
+            <Class IRI="#murumuru"/>
+        </ObjectExactCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#oleopequi"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_8170"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#oleopequi"/>
+        <ObjectExactCardinality cardinality="1">
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0001000"/>
+            <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/5ca3ba89b5052310f056bffc84ad2359"/>
+        </ObjectExactCardinality>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#order"/>
@@ -2241,6 +2925,204 @@
         <Class IRI="#OWLClass_598e0d08_8d13_4c9a_a52e_03bd0c4c6581alm"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#pocerifero"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_29989"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#poceríferocarnauba"/>
+        <Class IRI="#pocerifero"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#poceríferocarnauba"/>
+        <ObjectExactCardinality cardinality="1">
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0001000"/>
+            <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/9ddefc424391e81b5e0cea3f94bd04bd"/>
+        </ObjectExactCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#poceríferocarnauba"/>
+        <ObjectExactCardinality cardinality="1">
+            <ObjectProperty IRI="#usedInTheProductionOf"/>
+            <Class IRI="#ceradecarnauba"/>
+        </ObjectExactCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#polpaabacaxi"/>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/845caef614387a897ba1f99e3a3558cd"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#polpaabacaxi"/>
+        <ObjectExactCardinality cardinality="1">
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0001000"/>
+            <Class IRI="http://aims.fao.org/aos/agrovoc/c_13394"/>
+        </ObjectExactCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#polpaacai"/>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/845caef614387a897ba1f99e3a3558cd"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#polpaacai"/>
+        <ObjectExactCardinality cardinality="1">
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0001000"/>
+            <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/62646d1e38e30e9a1901a3cc69d75178"/>
+        </ObjectExactCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#polpaacerola"/>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/845caef614387a897ba1f99e3a3558cd"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#polpaacerola"/>
+        <ObjectExactCardinality cardinality="1">
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0001000"/>
+            <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/7a0149773ebabe1d82eb9830a577d16a"/>
+        </ObjectExactCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#polpaburiti"/>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/845caef614387a897ba1f99e3a3558cd"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#polpaburiti"/>
+        <ObjectExactCardinality cardinality="1">
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0001000"/>
+            <Class IRI="#buriti"/>
+        </ObjectExactCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#polpacacau"/>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/845caef614387a897ba1f99e3a3558cd"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#polpacacau"/>
+        <ObjectExactCardinality cardinality="1">
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0001000"/>
+            <Class IRI="#cacau"/>
+        </ObjectExactCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#polpacaja"/>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/845caef614387a897ba1f99e3a3558cd"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#polpacaja"/>
+        <ObjectExactCardinality cardinality="1">
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0001000"/>
+            <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/936400f151ba2146a86cfcc342279f57"/>
+        </ObjectExactCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#polpacaju"/>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/845caef614387a897ba1f99e3a3558cd"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#polpacaju"/>
+        <ObjectExactCardinality cardinality="1">
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0001000"/>
+            <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/473830ed2508bec0622e627d7f8f9604"/>
+        </ObjectExactCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#polpaceriguela"/>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/845caef614387a897ba1f99e3a3558cd"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#polpaceriguela"/>
+        <ObjectExactCardinality cardinality="1">
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0001000"/>
+            <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/1fabaa992654f45f4602e2f843463d50"/>
+        </ObjectExactCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#polpagoiaba"/>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/845caef614387a897ba1f99e3a3558cd"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#polpagoiaba"/>
+        <ObjectExactCardinality cardinality="1">
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0001000"/>
+            <Class IRI="http://aims.fao.org/aos/agrovoc/c_11392"/>
+        </ObjectExactCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#polpagraviola"/>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/845caef614387a897ba1f99e3a3558cd"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#polpagraviola"/>
+        <ObjectExactCardinality cardinality="1">
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0001000"/>
+            <Class IRI="#graviola"/>
+        </ObjectExactCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#polpajenipapo"/>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/845caef614387a897ba1f99e3a3558cd"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#polpajenipapo"/>
+        <ObjectExactCardinality cardinality="1">
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0001000"/>
+            <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/d673d8cbfcb7c2fd26ef7fbd8b69d709"/>
+        </ObjectExactCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#polpamanga"/>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/845caef614387a897ba1f99e3a3558cd"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#polpamanga"/>
+        <ObjectExactCardinality cardinality="1">
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0001000"/>
+            <Class IRI="http://aims.fao.org/aos/agrovoc/c_12367"/>
+        </ObjectExactCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#polpamangaba"/>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/845caef614387a897ba1f99e3a3558cd"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#polpamangaba"/>
+        <ObjectExactCardinality cardinality="1">
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0001000"/>
+            <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/f52a78f322bd8fcd941bf77dee403436"/>
+        </ObjectExactCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#polpamaracuja"/>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/845caef614387a897ba1f99e3a3558cd"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#polpamaracuja"/>
+        <ObjectExactCardinality cardinality="1">
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0001000"/>
+            <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/http://aims.fao.org/aos/agrovoc/c_13127"/>
+        </ObjectExactCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#polpatamarindo"/>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/845caef614387a897ba1f99e3a3558cd"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#polpatamarindo"/>
+        <ObjectExactCardinality cardinality="1">
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0001000"/>
+            <Class IRI="#tamarindo"/>
+        </ObjectExactCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#polpaumbu"/>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/845caef614387a897ba1f99e3a3558cd"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#polpaumbu"/>
+        <ObjectExactCardinality cardinality="1">
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0001000"/>
+            <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/7e8c918aba66629d9ac84d99fd56b745"/>
+        </ObjectExactCardinality>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#produtoinnatura"/>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_6211"/>
     </SubClassOf>
@@ -2257,12 +3139,24 @@
         <Class IRI="http://purl.obolibrary.org/obo/NCIT_C40098"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#sorgogranifero"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_1474"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#species"/>
         <Class IRI="#genus"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#tamarindo"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_7974"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#taxonRank"/>
         <Class IRI="http://purl.obolibrary.org/obo/NCIT_C40098"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#trigomelhorador"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_8373"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="/Algodão_em_caroço"/>
@@ -2300,6 +3194,10 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="/amendoaandiroba"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_25490"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/amendoaandiroba"/>
         <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/aaff761df6b25c60c9454df207578876"/>
     </SubClassOf>
     <SubClassOf>
@@ -2308,6 +3206,10 @@
             <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0003001"/>
             <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/3202d6bee0d58041404e36f003bc7a08"/>
         </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/amendoabaru"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_25490"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="/amendoabaru"/>
@@ -2322,14 +3224,18 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="/amendoacacau"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_25490"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/amendoacacau"/>
         <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/aaff761df6b25c60c9454df207578876"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="/amendoacacau"/>
-        <ObjectSomeValuesFrom>
-            <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0003001"/>
-            <Class IRI="http://aims.fao.org/aos/agrovoc/c_7713"/>
-        </ObjectSomeValuesFrom>
+        <ObjectExactCardinality cardinality="1">
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0001000"/>
+            <Class IRI="#cacau"/>
+        </ObjectExactCardinality>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="/azeitebabacu"/>
@@ -2341,6 +3247,13 @@
             <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0003001"/>
             <Class IRI="http://aims.fao.org/aos/agrovoc/c_4277bbe4"/>
         </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="/azeitebabacu"/>
+        <ObjectExactCardinality cardinality="1">
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0001000"/>
+            <Class IRI="#cocobabacu"/>
+        </ObjectExactCardinality>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="/azeitemacauba"/>
@@ -2500,6 +3413,14 @@
         <Class IRI="http://purl.org/cld/terms/Frequency"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/a110c0bb4ca441a61349d22192c6c583"/>
+        <Class IRI="#fibra"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/a5f687d1a1807f3db19702b7d3b3e762"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_5328"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/aaff761df6b25c60c9454df207578876"/>
         <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/28156081ffd59c01e5ad8c39d92d517b"/>
     </SubClassOf>
@@ -2523,6 +3444,14 @@
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_16477"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/d624e0944dcd81829d9fcc3cc6611929"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_7974"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/d673d8cbfcb7c2fd26ef7fbd8b69d709"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_7974"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/d7f09ae1740a8f52cefd25b0614965a1"/>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_29989"/>
     </SubClassOf>
@@ -2544,6 +3473,22 @@
     <SubClassOf>
         <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/e59b534a1f0b7dc770e1b7578597c131"/>
         <Class IRI="#produtovegetalnatura"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/f52a78f322bd8fcd941bf77dee403436"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_7974"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/fe46183f893373aeed0a008b54d71148"/>
+        <Class IRI="#produtovegetalnatura"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/0b251a6dcde4c65670b467527c2e12f3"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_7974"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/1fabaa992654f45f4602e2f843463d50"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_7974"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/28156081ffd59c01e5ad8c39d92d517b"/>
@@ -2576,6 +3521,22 @@
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_7974"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/5ca3ba89b5052310f056bffc84ad2359"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_25490"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/5ca3ba89b5052310f056bffc84ad2359"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_7974"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/5fe1bb8cb4a85f7794a509eebfc271a7"/>
+        <Class IRI="#produtovegetalnatura"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/513d52ec57a549910bf9ced35be817a8"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_5330"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/57285571deec8d096491da6f2bf7f2a6"/>
         <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/28156081ffd59c01e5ad8c39d92d517b"/>
     </SubClassOf>
@@ -2588,8 +3549,20 @@
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_1939"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/6c577516edc7117699a72d620847be73"/>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/5fe1bb8cb4a85f7794a509eebfc271a7"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/6ccfec83258bc84dd914b82963ff15a0"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_1474"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/6e5ec1f7742bbbfaccd577c26aa30bc5"/>
         <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/28156081ffd59c01e5ad8c39d92d517b"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/6008d47fd5f283a8edab04ecaffc0f5e"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_15685"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/61ff626b059dc368d047e9c27ede8eae"/>
@@ -2603,6 +3576,25 @@
         </ObjectExactCardinality>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/62ebfd337d11d466ca77260d335c62e6"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_7974"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/62646d1e38e30e9a1901a3cc69d75178"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_25490"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/62646d1e38e30e9a1901a3cc69d75178"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_7974"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/62646d1e38e30e9a1901a3cc69d75178"/>
+        <ObjectExactCardinality cardinality="1">
+            <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0003001"/>
+            <Class IRI="#acaiverdadeiro"/>
+        </ObjectExactCardinality>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/7a0149773ebabe1d82eb9830a577d16a"/>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_7974"/>
     </SubClassOf>
@@ -2612,6 +3604,18 @@
             <ObjectProperty IRI="http://purl.obolibrary.org/obo/RO_0003001"/>
             <Class IRI="http://aims.fao.org/aos/agrovoc/c_4545"/>
         </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/7e8c918aba66629d9ac84d99fd56b745"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_7974"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/7794fc517590053809f758b7e16d87ed"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_3881"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/8a1700ad77be316e1185a58a9df4663a"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_29989"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/845caef614387a897ba1f99e3a3558cd"/>
@@ -2641,6 +3645,14 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/93091ce029083f6c99e904493ae41517"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_7974"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/936400f151ba2146a86cfcc342279f57"/>
+        <Class IRI="http://aims.fao.org/aos/agrovoc/c_7974"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="https://sistemas.sede.embrapa.br/agrotermos/resources/http://aims.fao.org/aos/agrovoc/c_13127"/>
         <Class IRI="http://aims.fao.org/aos/agrovoc/c_7974"/>
     </SubClassOf>
     <SubClassOf>
@@ -3213,6 +4225,16 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_10195</IRI>
+        <Literal xml:lang="pt">Pepino</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_10195</IRI>
+        <Literal xml:lang="en">cucumber</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://aims.fao.org/aos/agrovoc/c_1038</IRI>
         <Literal xml:lang="lat">Bovidae</Literal>
     </AnnotationAssertion>
@@ -3235,6 +4257,16 @@
         <AnnotationProperty abbreviatedIRI="skos:exactMatch"/>
         <IRI>http://aims.fao.org/aos/agrovoc/c_10677</IRI>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">https://sistemas.sede.embrapa.br/agrotermos/resources/95eac3b4e952901f4b80aea54f6f9e16</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_1071</IRI>
+        <Literal xml:lang="pt">Pão</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_1071</IRI>
+        <Literal xml:lang="en">bread</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -3265,6 +4297,31 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://aims.fao.org/aos/agrovoc/c_11124</IRI>
         <Literal xml:lang="lat">Gentianales</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_11131</IRI>
+        <Literal xml:lang="pt">Germe de trigo</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_11131</IRI>
+        <Literal xml:lang="en">Wheat germ</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_11392</IRI>
+        <Literal xml:lang="pt">Goiaba</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_11392</IRI>
+        <Literal xml:lang="en">Guava</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:exactMatch"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_11392</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">https://sistemas.sede.embrapa.br/agrotermos/resources/a0b91d8e06136094e4e9f2633d219324</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -3330,6 +4387,41 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://aims.fao.org/aos/agrovoc/c_12358</IRI>
         <Literal xml:lang="lat">Mammalia</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_12367</IRI>
+        <Literal xml:lang="pt">Manga</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_12367</IRI>
+        <Literal xml:lang="en">Mango</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:exactMatch"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_12367</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">https://sistemas.sede.embrapa.br/agrotermos/resources/b16e21785bcdd2394b3e2a77de0f8eaa</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_12487</IRI>
+        <Literal xml:lang="pt">Melão</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_12487</IRI>
+        <Literal xml:lang="en">muskmelon</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_12920</IRI>
+        <Literal xml:lang="pt">Quiabo</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_12920</IRI>
+        <Literal xml:lang="en">okra</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -3438,6 +4530,26 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_14386</IRI>
+        <Literal xml:lang="pt">Trigo mole</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_14386</IRI>
+        <Literal xml:lang="en">soft wheat</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:altLabel"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_14386</IRI>
+        <Literal xml:lang="pt">Trigo brando</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_14386</IRI>
+        <Literal xml:lang="pt">Trigo mole</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://aims.fao.org/aos/agrovoc/c_14477</IRI>
         <Literal xml:lang="pt">Soja</Literal>
     </AnnotationAssertion>
@@ -3447,9 +4559,34 @@
         <Literal xml:lang="en">Soybean</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:altLabel"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_14477</IRI>
+        <Literal xml:lang="pt">Soja em Grão</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="skos:exactMatch"/>
         <IRI>http://aims.fao.org/aos/agrovoc/c_14477</IRI>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">https://sistemas.sede.embrapa.br/agrotermos/resources/bdc7645e04618dd9f14f06d96ab6967d</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_14477</IRI>
+        <Literal xml:lang="pt">Soja</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_14727</IRI>
+        <Literal xml:lang="pt">Pimentão</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_14727</IRI>
+        <Literal xml:lang="en">Sweet pepper</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:exactMatch"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_14727</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">https://sistemas.sede.embrapa.br/agrotermos/resources/a5f74e850f12620e61ba8013e75b59b4</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -3460,6 +4597,21 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://aims.fao.org/aos/agrovoc/c_14729</IRI>
         <Literal xml:lang="en">Sweet potatoe</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_1473</IRI>
+        <Literal xml:lang="en">Cereal product</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_1473</IRI>
+        <Literal xml:lang="pt">Produto à base de cereal</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:exactMatch"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_1473</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">https://sistemas.sede.embrapa.br/agrotermos/resources/7f875377fcab131e0629c16fc503e31a</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -3508,6 +4660,36 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_15277</IRI>
+        <Literal xml:lang="pt">Melancia</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_15277</IRI>
+        <Literal xml:lang="en">Watermelon</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:exactMatch"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_15277</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">https://sistemas.sede.embrapa.br/agrotermos/resources/5e8f4e06a72887b71ce41638fca221cf</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_15685</IRI>
+        <Literal xml:lang="pt">Especiaria</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_15685</IRI>
+        <Literal xml:lang="en">spice</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:exactMatch"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_15685</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">https://sistemas.sede.embrapa.br/agrotermos/resources/8eb41f06f00ccb7e912de9c6782ccea4</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://aims.fao.org/aos/agrovoc/c_15742</IRI>
         <Literal xml:lang="en">Processed product</Literal>
     </AnnotationAssertion>
@@ -3543,6 +4725,26 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_1641</IRI>
+        <Literal xml:lang="en">Citrus fruit</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_1641</IRI>
+        <Literal xml:lang="pt">Fruta cítrica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:altLabel"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_1641</IRI>
+        <Literal xml:lang="pt">Citrus</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_1641</IRI>
+        <Literal xml:lang="pt">Fruta cítrica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://aims.fao.org/aos/agrovoc/c_16477</IRI>
         <Literal xml:lang="pt">Açúcar de cana</Literal>
     </AnnotationAssertion>
@@ -3555,6 +4757,16 @@
         <AnnotationProperty abbreviatedIRI="skos:exactMatch"/>
         <IRI>http://aims.fao.org/aos/agrovoc/c_16477</IRI>
         <Literal>https://sistemas.sede.embrapa.br/agrotermos/resources/9852e4677bf923bfb2ac3b6136924a0b</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_16508</IRI>
+        <Literal xml:lang="en">Soybean oil</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_16508</IRI>
+        <Literal xml:lang="pt">Óleo de soja</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -3717,9 +4929,29 @@
         <Literal xml:lang="pt">Semente oleaginosa</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:altLabel"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_25490</IRI>
+        <Literal xml:lang="pt">Oleaginosas</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="skos:exactMatch"/>
         <IRI>http://aims.fao.org/aos/agrovoc/c_25490</IRI>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">https://sistemas.sede.embrapa.br/agrotermos/resources/11d1922eb5e932db908581eb83e3f457</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_25490</IRI>
+        <Literal xml:lang="pt">Semente oleaginosa</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_25495</IRI>
+        <Literal xml:lang="pt">Pimenta</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_25495</IRI>
+        <Literal xml:lang="en">pepper</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -3750,6 +4982,31 @@
         <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
         <IRI>http://aims.fao.org/aos/agrovoc/c_25499</IRI>
         <Literal xml:lang="pt">Semente de canola</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_25507</IRI>
+        <Literal xml:lang="pt">Semente de girassol</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_25507</IRI>
+        <Literal xml:lang="en">Sunflower seed</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:altLabel"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_25507</IRI>
+        <Literal xml:lang="pt">Girassol</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:exactMatch"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_25507</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">https://sistemas.sede.embrapa.br/agrotermos/resources/f7ce8e4b85f4e1bd909d8ca66e203db0</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_25507</IRI>
+        <Literal xml:lang="pt">Semente de girassol</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -3993,6 +5250,21 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_3359</IRI>
+        <Literal xml:lang="pt">Uva</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_3359</IRI>
+        <Literal xml:lang="en">grape</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:exactMatch"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_3359</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">https://sistemas.sede.embrapa.br/agrotermos/resources/d3da5eb0da6870aec2297a935d7159a8</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://aims.fao.org/aos/agrovoc/c_33708</IRI>
         <Literal xml:lang="lat">Euterpe</Literal>
     </AnnotationAssertion>
@@ -4022,14 +5294,14 @@
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">https://sistemas.sede.embrapa.br/agrotermos/resources/33ad8f317947f7c5a1b849e49d5483e2</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>http://aims.fao.org/aos/agrovoc/c_35743</IRI>
-        <Literal xml:lang="pt">Chá</Literal>
+        <AnnotationProperty abbreviatedIRI="skos:altLabel"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_3376</IRI>
+        <Literal xml:lang="pt">Folhosas</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>http://aims.fao.org/aos/agrovoc/c_35743</IRI>
-        <Literal xml:lang="en">Herbal tea</Literal>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_3376</IRI>
+        <Literal xml:lang="pt">Hortaliça de folha</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -4073,6 +5345,21 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_3881</IRI>
+        <Literal xml:lang="pt">Composto inorgânico</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_3881</IRI>
+        <Literal xml:lang="en">inorganic compound</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:exactMatch"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_3881</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">https://sistemas.sede.embrapa.br/agrotermos/resources/9bc1d45dc6914580199935a8c1e26709</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://aims.fao.org/aos/agrovoc/c_3935</IRI>
         <Literal xml:lang="lat">Ipomoea</Literal>
     </AnnotationAssertion>
@@ -4080,6 +5367,16 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://aims.fao.org/aos/agrovoc/c_3937</IRI>
         <Literal xml:lang="lat">Ipomoea batatas</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_4065</IRI>
+        <Literal xml:lang="pt">Juta</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_4065</IRI>
+        <Literal xml:lang="en">Jute</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -4110,6 +5407,21 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://aims.fao.org/aos/agrovoc/c_4256</IRI>
         <Literal xml:lang="lat">Fabaceae</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_4259</IRI>
+        <Literal xml:lang="en">Lemon</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_4259</IRI>
+        <Literal xml:lang="pt">Limão</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:exactMatch"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_4259</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">https://sistemas.sede.embrapa.br/agrotermos/resources/23a6a6f019e446235d9251e7bf1939c4</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -4218,6 +5530,16 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_4838</IRI>
+        <Literal xml:lang="pt">Milheto</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_4838</IRI>
+        <Literal xml:lang="en">millet</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://aims.fao.org/aos/agrovoc/c_49904</IRI>
         <Literal xml:lang="en">Organism</Literal>
     </AnnotationAssertion>
@@ -4263,6 +5585,21 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_5328</IRI>
+        <Literal xml:lang="en">Oil crop</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_5328</IRI>
+        <Literal xml:lang="pt">Planta oleaginosa</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:exactMatch"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_5328</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">https://sistemas.sede.embrapa.br/agrotermos/resources/73d133898380cd4d0657075a5845af03</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://aims.fao.org/aos/agrovoc/c_5330</IRI>
         <Literal xml:lang="en">Oil palm</Literal>
     </AnnotationAssertion>
@@ -4275,6 +5612,31 @@
         <AnnotationProperty abbreviatedIRI="skos:exactMatch"/>
         <IRI>http://aims.fao.org/aos/agrovoc/c_5330</IRI>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">https://sistemas.sede.embrapa.br/agrotermos/resources/821d61281118d169f36bb25a77c5fe48</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_5334</IRI>
+        <Literal xml:lang="en">Oil</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_5334</IRI>
+        <Literal xml:lang="pt">Óleo</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:exactMatch"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_5334</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">https://sistemas.sede.embrapa.br/agrotermos/resources/d08c339bce3bea66c69e8735a89600e2</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_541</IRI>
+        <Literal xml:lang="pt">Maçã</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_541</IRI>
+        <Literal xml:lang="en">apple</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -4305,6 +5667,16 @@
         <AnnotationProperty abbreviatedIRI="skos:exactMatch"/>
         <IRI>http://aims.fao.org/aos/agrovoc/c_5548</IRI>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">https://sistemas.sede.embrapa.br/agrotermos/resources/acbf61dc603a375f7841d5bfd5ca928f</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_5638</IRI>
+        <Literal xml:lang="pt">Pêssego</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_5638</IRI>
+        <Literal xml:lang="en">peache</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -4340,6 +5712,21 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://aims.fao.org/aos/agrovoc/c_572</IRI>
         <Literal xml:lang="lat">Arachis hypogaea</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_5c9e76bc</IRI>
+        <Literal xml:lang="pt">Rúcula</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_5c9e76bc</IRI>
+        <Literal xml:lang="en">rocket</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:exactMatch"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_5c9e76bc</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">https://sistemas.sede.embrapa.br/agrotermos/resources/8c6d70bd7e4b4f0fa5cca06e224ac3ba</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -4453,8 +5840,48 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_6ffce1ab</IRI>
+        <Literal xml:lang="pt">Fubá</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_6ffce1ab</IRI>
+        <Literal xml:lang="en">Maize meal</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:altLabel"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_6ffce1ab</IRI>
+        <Literal xml:lang="pt">Fubá de milho</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:exactMatch"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_6ffce1ab</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">https://sistemas.sede.embrapa.br/agrotermos/resources/f9c9caaa48da729d2a8c0328388e9565</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_6ffce1ab</IRI>
+        <Literal xml:lang="pt">Fubá</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://aims.fao.org/aos/agrovoc/c_703</IRI>
         <Literal xml:lang="lat">Attalea</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_7086</IRI>
+        <Literal xml:lang="pt">Sisal</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_7086</IRI>
+        <Literal xml:lang="en">sisal</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:exactMatch"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_7086</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">https://sistemas.sede.embrapa.br/agrotermos/resources/941490e4a8761000a77ebdd4b7f3a54d</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -4493,6 +5920,21 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_7413</IRI>
+        <Literal xml:lang="pt">Planta estimulante</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_7413</IRI>
+        <Literal xml:lang="en">Stimulant crop</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:exactMatch"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_7413</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">https://sistemas.sede.embrapa.br/agrotermos/resources/8cfa9f207f98fd89447017bc69313888</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://aims.fao.org/aos/agrovoc/c_7498</IRI>
         <Literal xml:lang="pt">Açúcar</Literal>
     </AnnotationAssertion>
@@ -4505,6 +5947,46 @@
         <AnnotationProperty abbreviatedIRI="skos:exactMatch"/>
         <IRI>http://aims.fao.org/aos/agrovoc/c_7498</IRI>
         <Literal>https://sistemas.sede.embrapa.br/agrotermos/resources/f34ae1525ab8cba9dfe78de135ac81f0</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_7550</IRI>
+        <Literal xml:lang="pt">Laranja</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_7550</IRI>
+        <Literal xml:lang="en">Sweet orange</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:exactMatch"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_7550</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">https://sistemas.sede.embrapa.br/agrotermos/resources/cf75ceb29197f57b19dcb8b4757368e8</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_7601</IRI>
+        <Literal xml:lang="pt">Tangerina</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_7601</IRI>
+        <Literal xml:lang="en">Tangerine</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:exactMatch"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_7601</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">https://sistemas.sede.embrapa.br/agrotermos/resources/d7b920215594108bd28b35702cb27236</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_7655</IRI>
+        <Literal xml:lang="pt">Fruta de clima temperado</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_7655</IRI>
+        <Literal xml:lang="en">temperate fruit</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -4530,6 +6012,16 @@
         <AnnotationProperty abbreviatedIRI="skos:exactMatch"/>
         <IRI>http://aims.fao.org/aos/agrovoc/c_7805</IRI>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">https://sistemas.sede.embrapa.br/agrotermos/resources/02e409c8bf00d35d7a7d61c56829da7f</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_785</IRI>
+        <Literal xml:lang="pt">Produto de panificação</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_785</IRI>
+        <Literal xml:lang="en">baked good</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -4658,6 +6150,21 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_8421</IRI>
+        <Literal xml:lang="pt">Madeira</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_8421</IRI>
+        <Literal xml:lang="en">wood</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:exactMatch"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_8421</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">https://sistemas.sede.embrapa.br/agrotermos/resources/d471f65a3e7768cb32d51debc22d9f60</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://aims.fao.org/aos/agrovoc/c_8998</IRI>
         <Literal xml:lang="pt">Berinjela</Literal>
     </AnnotationAssertion>
@@ -4730,6 +6237,11 @@
         <AnnotationProperty abbreviatedIRI="skos:altLabel"/>
         <IRI>http://aims.fao.org/aos/agrovoc/c_9649</IRI>
         <Literal xml:lang="pt">Macaxeira</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:altLabel"/>
+        <IRI>http://aims.fao.org/aos/agrovoc/c_9649</IRI>
+        <Literal xml:lang="pt">raiz de mandioca</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="skos:exactMatch"/>
@@ -4978,8 +6490,43 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#acaiverdadeiro</IRI>
+        <Literal xml:lang="pt">Açaí-verdadeiro</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#algodoeiro</IRI>
         <Literal xml:lang="pt">Algodoeiro</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#amendoadeouricuri</IRI>
+        <Literal xml:lang="pt">Amêndoa de licuri</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:altLabel"/>
+        <IRI>#amendoadeouricuri</IRI>
+        <Literal xml:lang="pt">Licuri</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:altLabel"/>
+        <IRI>#amendoadeouricuri</IRI>
+        <Literal xml:lang="pt">Ouricuri</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#amendoamacauba</IRI>
+        <Literal xml:lang="pt">Amêndoa de macaúba</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:altLabel"/>
+        <IRI>#amendoamacauba</IRI>
+        <Literal xml:lang="pt">Macaúba</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#amendoamacauba</IRI>
+        <Literal xml:lang="pt">Amêndoa de macaúba</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -5000,6 +6547,21 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#buritizeiro</IRI>
         <Literal xml:lang="pt">Buritizeiro</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#cacau</IRI>
+        <Literal xml:lang="pt">Cacau</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:closeMatch"/>
+        <IRI>#cacau</IRI>
+        <Literal xml:lang="en">cocoa</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:closeMatch"/>
+        <IRI>#cacau</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">https://sistemas.sede.embrapa.br/agrotermos/resources/b049f571bb7165ea6fb5d377e5dfdfd2</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -5103,6 +6665,16 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#copaiba</IRI>
+        <Literal xml:lang="pt">Copaíba</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:closeMatch"/>
+        <IRI>#copaiba</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://aims.fao.org/aos/agrovoc/c_32551</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#extratotomate</IRI>
         <Literal xml:lang="pt">Extrato de tomate</Literal>
     </AnnotationAssertion>
@@ -5138,13 +6710,58 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#farinhamandiocaseca</IRI>
+        <Literal xml:lang="pt">Farinha de mandioca seca</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#farinhamandiocasecafina</IRI>
+        <Literal xml:lang="pt">Farinha de mandioca seca fina</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:altLabel"/>
+        <IRI>#farinhamandiocasecafina</IRI>
+        <Literal xml:lang="pt">Mandioca seca fina</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#farinhamandiocasecafina</IRI>
+        <Literal xml:lang="pt">Farinha de mandioca seca fina</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#farinhamandiocasecagrossa</IRI>
+        <Literal xml:lang="pt">Farinha de mandioca seca grossa</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:altLabel"/>
+        <IRI>#farinhamandiocasecagrossa</IRI>
+        <Literal xml:lang="pt">Mandioca seca grossa</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#farinhamandiocasecagrossa</IRI>
+        <Literal xml:lang="pt">Farinha de mandioca seca grossa</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#favadanta</IRI>
         <Literal xml:lang="pt">Fava-d&apos;anta</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#feculademandioca</IRI>
+        <Literal xml:lang="pt">Polvilho</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:altLabel"/>
+        <IRI>#feculademandioca</IRI>
         <Literal xml:lang="pt">Fécula de mandioca</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#feculademandioca</IRI>
+        <Literal xml:lang="pt">Polvilho</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -5173,6 +6790,36 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#floco</IRI>
+        <Literal xml:lang="en">Flakes</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#floco</IRI>
+        <Literal xml:lang="pt">Flocos</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#flocosdearrroz</IRI>
+        <Literal xml:lang="pt">Flocos de arrroz</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#flocosdearrroz</IRI>
+        <Literal xml:lang="en">Rice flakes</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#flocosdemilho</IRI>
+        <Literal xml:lang="en">Corn flakes</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#flocosdemilho</IRI>
+        <Literal xml:lang="pt">Flocos de milho</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#genus</IRI>
         <Literal xml:lang="en">Genus</Literal>
     </AnnotationAssertion>
@@ -5185,6 +6832,26 @@
         <AnnotationProperty abbreviatedIRI="skos:closeMatch"/>
         <IRI>#genus</IRI>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://rs.tdwg.org/dwc/terms/genus</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#graviola</IRI>
+        <Literal xml:lang="pt">Graviola</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:closeMatch"/>
+        <IRI>#graviola</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">https://sistemas.sede.embrapa.br/agrotermos/resources/cd4ad51e3ef278dffda7b240530a6cf7</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#guarana</IRI>
+        <Literal xml:lang="pt">Guaraná</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:closeMatch"/>
+        <IRI>#guarana</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">https://sistemas.sede.embrapa.br/agrotermos/resources/da85d12cdbbedf2418030018c66cb0b0</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -5210,6 +6877,91 @@
         <AnnotationProperty abbreviatedIRI="skos:closeMatch"/>
         <IRI>#kingdom</IRI>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://rs.tdwg.org/dwc/terms/kingdom</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#licurizeiro</IRI>
+        <Literal xml:lang="pt">Licurizeiro</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:altLabel"/>
+        <IRI>#licurizeiro</IRI>
+        <Literal xml:lang="pt">Coqueiro-cabeçudo</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:closeMatch"/>
+        <IRI>#licurizeiro</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">https://sistemas.sede.embrapa.br/agrotermos/resources/c9ed4cf096ed94bc9c318008ffadbdce</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#licurizeiro</IRI>
+        <Literal xml:lang="pt">Licurizeiro</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#mamonabaga</IRI>
+        <Literal xml:lang="pt">Mamona em baga</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/source"/>
+        <IRI>#massamandioca</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">https://periodicos.ufms.br/index.php/EIGEDIN/article/view/7327</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#massamandioca</IRI>
+        <Literal xml:lang="pt">Massa de mandioca</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#maxixe</IRI>
+        <Literal xml:lang="pt">Maxixe</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:closeMatch"/>
+        <IRI>#maxixe</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">https://sistemas.sede.embrapa.br/agrotermos/resources/2ba40885c990c681fbb1872fc59a5a16</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#murumuru</IRI>
+        <Literal xml:lang="pt">Murumuru</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#murumuzeiro</IRI>
+        <Literal xml:lang="pt">Murumuzeiro</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#oleoburiti</IRI>
+        <Literal xml:lang="pt">Óleo de buriti</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#oleocopaiba</IRI>
+        <Literal xml:lang="pt">Óleo de copaíba</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:closeMatch"/>
+        <IRI>#oleocopaiba</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://aims.fao.org/aos/agrovoc/c_10091</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:closeMatch"/>
+        <IRI>#oleocopaiba</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">https://sistemas.sede.embrapa.br/agrotermos/resources/29fb6a538d8ed7225c2787a2118752aa</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#oleomurumuru</IRI>
+        <Literal xml:lang="pt">Óleo de murumuru</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#oleopequi</IRI>
+        <Literal xml:lang="pt">Óleo de pequi</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -5253,6 +7005,106 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#pocerifero</IRI>
+        <Literal xml:lang="pt">Pó cerífero</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#poceríferocarnauba</IRI>
+        <Literal xml:lang="pt">Pó cerífero de carnaúba</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#polpaabacaxi</IRI>
+        <Literal xml:lang="en">Polpa de abacaxi</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#polpaacai</IRI>
+        <Literal xml:lang="pt">Polpa de açaí</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#polpaacerola</IRI>
+        <Literal xml:lang="pt">Polpa de acerola</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#polpaburiti</IRI>
+        <Literal xml:lang="pt">Polpa de buriti</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#polpacacau</IRI>
+        <Literal xml:lang="pt">Polpa de cacau</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#polpacaja</IRI>
+        <Literal xml:lang="pt">Polpa de cajá</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#polpacaju</IRI>
+        <Literal xml:lang="pt">Polpa de caju</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#polpaceriguela</IRI>
+        <Literal xml:lang="pt">Polpa de ceriguela</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:altLabel"/>
+        <IRI>#polpaceriguela</IRI>
+        <Literal xml:lang="pt">Polpa de seriguela</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>#polpaceriguela</IRI>
+        <Literal xml:lang="pt">Polpa de ceriguela</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#polpagoiaba</IRI>
+        <Literal xml:lang="pt">Polpa de goiaba</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#polpagraviola</IRI>
+        <Literal xml:lang="pt">Polpa de graviola</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#polpajenipapo</IRI>
+        <Literal xml:lang="pt">Polpa de jenipapo</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#polpamanga</IRI>
+        <Literal xml:lang="pt">Polpa de manga</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#polpamangaba</IRI>
+        <Literal xml:lang="pt">Polpa de mangaba</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#polpamaracuja</IRI>
+        <Literal xml:lang="pt">Polpa de maracujá</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#polpatamarindo</IRI>
+        <Literal xml:lang="pt">Polpa de tamarindo</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#polpaumbu</IRI>
+        <Literal xml:lang="pt">Polpa de umbu</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#produtoinnatura</IRI>
         <Literal xml:lang="pt">Produto in natura</Literal>
     </AnnotationAssertion>
@@ -5278,6 +7130,16 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#residueof</IRI>
+        <Literal xml:lang="en">residue of</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#residueof</IRI>
+        <Literal xml:lang="pt">resíduo da produção de</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#scientificName</IRI>
         <Literal xml:lang="pt">Nome científico</Literal>
     </AnnotationAssertion>
@@ -5290,6 +7152,11 @@
         <AnnotationProperty abbreviatedIRI="skos:closeMatch"/>
         <IRI>#scientificName</IRI>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://rs.tdwg.org/dwc/terms/scientificName</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#sorgogranifero</IRI>
+        <Literal xml:lang="pt">Sorgo granífero</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
@@ -5318,6 +7185,16 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#tamarindo</IRI>
+        <Literal xml:lang="pt">Tamarindo</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:relatedMatch"/>
+        <IRI>#tamarindo</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">https://sistemas.sede.embrapa.br/agrotermos/resources/5bf4ec8db1d13c79edfae0699ce662fe</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>#taxonRank</IRI>
         <Literal xml:lang="pt">Classificação taxonômica</Literal>
     </AnnotationAssertion>
@@ -5330,6 +7207,21 @@
         <AnnotationProperty abbreviatedIRI="skos:closeMatch"/>
         <IRI>#taxonRank</IRI>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://rs.tdwg.org/dwc/terms/taxonRank</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#trigomelhorador</IRI>
+        <Literal xml:lang="pt">Trigo melhorador</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#usedInTheProductionOf</IRI>
+        <Literal xml:lang="pt">usado na produção de</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#usedInTheProductionOf</IRI>
+        <Literal xml:lang="en">used in the production of</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://purl.org/dc/elements/1.1/source"/>
@@ -5432,9 +7324,14 @@
         <Literal xml:lang="pt">Azeite de babaçu</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="skos:broadMatch"/>
+        <AnnotationProperty abbreviatedIRI="skos:altLabel"/>
         <IRI>/azeitebabacu</IRI>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">https://sistemas.sede.embrapa.br/agrotermos/resources/e4a3d44a48cc1650a37dc45948407a83</Literal>
+        <Literal xml:lang="pt">Óleo de babaçu</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>/azeitebabacu</IRI>
+        <Literal xml:lang="pt">Azeite de babaçu</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -5708,6 +7605,16 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sistemas.sede.embrapa.br/agrotermos/resources/a110c0bb4ca441a61349d22192c6c583</IRI>
+        <Literal xml:lang="pt">Piaçava</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sistemas.sede.embrapa.br/agrotermos/resources/a5f687d1a1807f3db19702b7d3b3e762</IRI>
+        <Literal xml:lang="pt">Mamona</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>https://sistemas.sede.embrapa.br/agrotermos/resources/aaff761df6b25c60c9454df207578876</IRI>
         <Literal xml:lang="pt">Amêndoa</Literal>
     </AnnotationAssertion>
@@ -5743,6 +7650,16 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sistemas.sede.embrapa.br/agrotermos/resources/d624e0944dcd81829d9fcc3cc6611929</IRI>
+        <Literal xml:lang="pt">Murici</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sistemas.sede.embrapa.br/agrotermos/resources/d673d8cbfcb7c2fd26ef7fbd8b69d709</IRI>
+        <Literal xml:lang="pt">Jenipapo</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>https://sistemas.sede.embrapa.br/agrotermos/resources/d7f09ae1740a8f52cefd25b0614965a1</IRI>
         <Literal xml:lang="pt">Fécula</Literal>
     </AnnotationAssertion>
@@ -5760,6 +7677,56 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>https://sistemas.sede.embrapa.br/agrotermos/resources/e59b534a1f0b7dc770e1b7578597c131</IRI>
         <Literal xml:lang="pt">Leguminosa de grão</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:altLabel"/>
+        <IRI>https://sistemas.sede.embrapa.br/agrotermos/resources/e59b534a1f0b7dc770e1b7578597c131</IRI>
+        <Literal>Grãos</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>https://sistemas.sede.embrapa.br/agrotermos/resources/e59b534a1f0b7dc770e1b7578597c131</IRI>
+        <Literal xml:lang="pt">Leguminosa de grão</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sistemas.sede.embrapa.br/agrotermos/resources/f52a78f322bd8fcd941bf77dee403436</IRI>
+        <Literal xml:lang="pt">Mangaba</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sistemas.sede.embrapa.br/agrotermos/resources/fe46183f893373aeed0a008b54d71148</IRI>
+        <Literal xml:lang="pt">Pinhão</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sistemas.sede.embrapa.br/agrotermos/resources/0b251a6dcde4c65670b467527c2e12f3</IRI>
+        <Literal xml:lang="pt">Fruta de conde</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:altLabel"/>
+        <IRI>https://sistemas.sede.embrapa.br/agrotermos/resources/0b251a6dcde4c65670b467527c2e12f3</IRI>
+        <Literal xml:lang="pt">Pinha</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>https://sistemas.sede.embrapa.br/agrotermos/resources/0b251a6dcde4c65670b467527c2e12f3</IRI>
+        <Literal xml:lang="pt">Fruta de conde</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sistemas.sede.embrapa.br/agrotermos/resources/1fabaa992654f45f4602e2f843463d50</IRI>
+        <Literal xml:lang="pt">Ceriguela</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:altLabel"/>
+        <IRI>https://sistemas.sede.embrapa.br/agrotermos/resources/1fabaa992654f45f4602e2f843463d50</IRI>
+        <Literal xml:lang="pt">seriguela</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>https://sistemas.sede.embrapa.br/agrotermos/resources/1fabaa992654f45f4602e2f843463d50</IRI>
+        <Literal xml:lang="pt">Ceriguela</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -5803,6 +7770,26 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sistemas.sede.embrapa.br/agrotermos/resources/5ca3ba89b5052310f056bffc84ad2359</IRI>
+        <Literal xml:lang="pt">Pequi</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sistemas.sede.embrapa.br/agrotermos/resources/5fe1bb8cb4a85f7794a509eebfc271a7</IRI>
+        <Literal xml:lang="pt">Planta produtora de droga</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sistemas.sede.embrapa.br/agrotermos/resources/513d52ec57a549910bf9ced35be817a8</IRI>
+        <Literal xml:lang="en">Macauba Palm</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sistemas.sede.embrapa.br/agrotermos/resources/513d52ec57a549910bf9ced35be817a8</IRI>
+        <Literal xml:lang="pt">Macaúba</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>https://sistemas.sede.embrapa.br/agrotermos/resources/57285571deec8d096491da6f2bf7f2a6</IRI>
         <Literal xml:lang="pt">Castanha</Literal>
     </AnnotationAssertion>
@@ -5828,8 +7815,48 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sistemas.sede.embrapa.br/agrotermos/resources/6c577516edc7117699a72d620847be73</IRI>
+        <Literal xml:lang="pt">Fumo</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:altLabel"/>
+        <IRI>https://sistemas.sede.embrapa.br/agrotermos/resources/6c577516edc7117699a72d620847be73</IRI>
+        <Literal xml:lang="pt">tabaco</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:closeMatch"/>
+        <IRI>https://sistemas.sede.embrapa.br/agrotermos/resources/6c577516edc7117699a72d620847be73</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://aims.fao.org/aos/agrovoc/c_7117</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>https://sistemas.sede.embrapa.br/agrotermos/resources/6c577516edc7117699a72d620847be73</IRI>
+        <Literal xml:lang="pt">Fumo</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sistemas.sede.embrapa.br/agrotermos/resources/6ccfec83258bc84dd914b82963ff15a0</IRI>
+        <Literal xml:lang="en">Triticale</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sistemas.sede.embrapa.br/agrotermos/resources/6ccfec83258bc84dd914b82963ff15a0</IRI>
+        <Literal xml:lang="pt">Triticale</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>https://sistemas.sede.embrapa.br/agrotermos/resources/6e5ec1f7742bbbfaccd577c26aa30bc5</IRI>
         <Literal xml:lang="pt">Macadâmia</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sistemas.sede.embrapa.br/agrotermos/resources/6008d47fd5f283a8edab04ecaffc0f5e</IRI>
+        <Literal xml:lang="en">Black pepper</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sistemas.sede.embrapa.br/agrotermos/resources/6008d47fd5f283a8edab04ecaffc0f5e</IRI>
+        <Literal xml:lang="pt">Pimenta do Reino</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -5848,6 +7875,36 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sistemas.sede.embrapa.br/agrotermos/resources/62ebfd337d11d466ca77260d335c62e6</IRI>
+        <Literal xml:lang="pt">Mamão</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sistemas.sede.embrapa.br/agrotermos/resources/62ebfd337d11d466ca77260d335c62e6</IRI>
+        <Literal xml:lang="en">Papaia</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sistemas.sede.embrapa.br/agrotermos/resources/62646d1e38e30e9a1901a3cc69d75178</IRI>
+        <Literal xml:lang="en">Assai</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sistemas.sede.embrapa.br/agrotermos/resources/62646d1e38e30e9a1901a3cc69d75178</IRI>
+        <Literal xml:lang="pt">Açaí</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:altLabel"/>
+        <IRI>https://sistemas.sede.embrapa.br/agrotermos/resources/62646d1e38e30e9a1901a3cc69d75178</IRI>
+        <Literal xml:lang="pt">Juçara</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:prefLabel"/>
+        <IRI>https://sistemas.sede.embrapa.br/agrotermos/resources/62646d1e38e30e9a1901a3cc69d75178</IRI>
+        <Literal xml:lang="pt">Açaí</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>https://sistemas.sede.embrapa.br/agrotermos/resources/7a0149773ebabe1d82eb9830a577d16a</IRI>
         <Literal xml:lang="pt">Acerola</Literal>
     </AnnotationAssertion>
@@ -5855,6 +7912,31 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>https://sistemas.sede.embrapa.br/agrotermos/resources/7a0149773ebabe1d82eb9830a577d16a</IRI>
         <Literal xml:lang="en">Barbados cherry</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sistemas.sede.embrapa.br/agrotermos/resources/7e8c918aba66629d9ac84d99fd56b745</IRI>
+        <Literal xml:lang="pt">Umbu</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sistemas.sede.embrapa.br/agrotermos/resources/7794fc517590053809f758b7e16d87ed</IRI>
+        <Literal xml:lang="pt">Sal</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sistemas.sede.embrapa.br/agrotermos/resources/7794fc517590053809f758b7e16d87ed</IRI>
+        <Literal xml:lang="en">Salt</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:relatedMatch"/>
+        <IRI>https://sistemas.sede.embrapa.br/agrotermos/resources/7794fc517590053809f758b7e16d87ed</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">http://aims.fao.org/aos/agrovoc/c_33129</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sistemas.sede.embrapa.br/agrotermos/resources/8a1700ad77be316e1185a58a9df4663a</IRI>
+        <Literal xml:lang="pt">Suco</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -5880,6 +7962,26 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>https://sistemas.sede.embrapa.br/agrotermos/resources/93091ce029083f6c99e904493ae41517</IRI>
         <Literal xml:lang="pt">Cupuaçu</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sistemas.sede.embrapa.br/agrotermos/resources/936400f151ba2146a86cfcc342279f57</IRI>
+        <Literal xml:lang="pt">Cajá</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sistemas.sede.embrapa.br/agrotermos/resources/http://aims.fao.org/aos/agrovoc/c_13127</IRI>
+        <Literal xml:lang="pt">Maracujá</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>https://sistemas.sede.embrapa.br/agrotermos/resources/http://aims.fao.org/aos/agrovoc/c_13127</IRI>
+        <Literal xml:lang="en">Passion fruit</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="skos:exactMatch"/>
+        <IRI>https://sistemas.sede.embrapa.br/agrotermos/resources/http://aims.fao.org/aos/agrovoc/c_13127</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#anyURI">https://sistemas.sede.embrapa.br/agrotermos/resources/9e2501934d067d71bb1c5850722a73d1</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
