@@ -115,14 +115,6 @@
     dash:editor dash:URIEditor ;
     dash:viewer dash:LabelViewer ;
   ], [
-    sh:path scm:dataType ;
-    sh:name "Tipo de dados" ;
-    sh:datatype xsd:literal ;
-    sh:nodeKind sh:IRI ;
-    sh:maxCount 1 ;
-    dash:editor dash:URIEditor ;
-    dash:viewer dash:LabelViewer ;
-  ], [
     sh:path scm:referenceQuantity ;
     sh:name "Quantidade de referência" ;
     sh:maxCount 1 ;
