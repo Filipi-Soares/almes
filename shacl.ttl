@@ -28,11 +28,9 @@
     sh:path dcterms:publisher ;
     sh:name "Editor";
     sh:node :AgentShape ;
-    sh:minCount 1 ;
-    sh:maxCount 1 ;
     dash:editor dash:BlankNodeEditor ;
   ], [
-     sh:path dcterms:creator;
+    sh:path dcterms:creator;
     sh:name "Criador";
     sh:node :AgentShape ;
     sh:minCount 1 ;
@@ -55,7 +53,7 @@
   ], [
     sh:path dcterms:language ;
     sh:name "Idioma";
-    sh:nodeKind sh:IRI ;
+    sh:nodeKind sh:Literal ;
     sh:maxCount 1 ;
     dash:editor dash:URIEditor ;
     dash:viewer dash:LabelViewer ;
